@@ -1,7 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Awards"
+    url: /awards/
+  - title: "Publication"
+    url: /publication/
+  - title: "Research"
+    url: /research/
+  - title: "Software"
+    url: /software
+  - title: "Talks"
+    url: /talks/
