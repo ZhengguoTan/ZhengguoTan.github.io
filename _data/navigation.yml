@@ -11,3 +11,17 @@ main:
     url: /software
   - title: "Talks"
     url: /talks/
+
+side:
+  - title: "Home"
+    url: /
+  - title: "Awards"
+    url: /awards/
+  - title: "Publication"
+    url: /publication/
+  - title: "Research"
+    url: /research/
+  - title: "Software"
+    url: /software
+  - title: "Talks"
+    url: /talks/
