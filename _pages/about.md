@@ -16,7 +16,7 @@ title: ""
 
     - Pulse sequence programming of multi-echo and stack-of-radial sampling 
     - Implementation of model-based reconstruction with advanced regularization techniques in BART
-    - Clinical evaluation of free-breathing liver fat and R2* mapping
+    - Clinical evaluation of free-breathing liver fat and R2* mapping, including obesity, diabetes, and NAFLD patients
 
 **Research Group of [Prof. Dr. Jens Frahm](https://en.wikipedia.org/wiki/Jens_Frahm), Max Planck Institute for Biophysical Chemistry, Göttingen**
 
