@@ -5,6 +5,10 @@ title: ""
 
 # Work Experience
 
+**Research Group of [Prof. Dr. Florian Knoll](https://scholar.google.de/citations?user=FFUVmiUAAAAJ&hl=de), Department of Artificial Intelligence in Biomedical Engineering, University of Erlangen-Nuremberg**
+
+* 01.2022 - Present: Postdoctoral Researcher.
+
 **Research Group of [Prof. Dr. Martin Uecker](http://wwwuser.gwdg.de/~muecker1/), Department of Diagnostic and Interventional Radiology, University Medical Center Göttingen**
 
 * 01.2020 - 12.2021: DFG-funded Temporary Principal Investigator.
@@ -18,7 +22,7 @@ title: ""
 
 * 06.2016 - 02.2019: Postdoctoral Research Scientist.
 
-    - Deelopment of dynamic water/fat separation technique 
+    - Development of dynamic water/fat separation technique 
     - Development of a model-based reconstruction technique for real-time phase-contrast flow MRI
     - Implementation of automatic scaling of unknonws in model-based reconstruction
 
