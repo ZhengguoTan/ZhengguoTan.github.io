@@ -66,7 +66,7 @@ title: ""
 
 * 2014, Scientific Computing II, Physics Department, University of Göttingen.
 
-* 2012 - 2015, Basci Principle of MRI and Real-Time MRI, International Max Planck Research School "Physics of Biological and Complex Systems".
+* 2012 - 2015, Basic Principle of MRI and Real-Time MRI, International Max Planck Research School "Physics of Biological and Complex Systems".
 
 # Skills
 
