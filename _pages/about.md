@@ -41,17 +41,20 @@ title: ""
 
 # Professional Activities
 
+## Journal/Conference Reviewers: 
+* IEEE Transactions on Medcial Imaging
+* Magnetic Resoance in Medicine
+* NMR in Biomedicine
+* Journal of Magnetic Resoance Imaging
+* International Society for Magnetic Resoance in Medicine (ISMRM)
+
+## ISMRM
 * Lecturer for ISMRM 2022 Weekend Educational Course
 * Lecturer for ISMRM 2021 Software Session on BART
 * Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session 
-* Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1 
-* Journal/Conference Reviewers: 
-    - IEEE Transactions on Medcial Imaging
-    - Magnetic Resoance in Medicine
-    - NMR in Biomedicine
-    - Journal of Magnetic Resoance Imaging
-    - International Society for Magnetic Resoance in Medicine (ISMRM)
 
+## Ad-Hoc
+* Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1 
 
 # Training
 
@@ -59,10 +62,16 @@ title: ""
 * 2018, Machine Learning on Coursera by Prof. Dr. Andrew Ng
 * 2013, ESMRMB Lecture on "Inverse Imaging, Sparse Sampling, and More"
 
+# Teaching
+
+* 2014, Scientific Computing II, Physics Department, University of Göttingen.
+
+* 2012 - 2015, Basci Principle of MRI and Real-Time MRI, International Max Planck Research School "Physics of Biological and Complex Systems".
+
 # Skills
 
 * Medical imaging, in particular Magnetic Resonance Imaging (MRI)
 * Numerical optimization
-* Programming: C/C++, CUDA, MATLAB, Python, Bash scripts
+* Programming: C/C++, CUDA, MATLAB, Python, Bash scripts, Deep learning frameworks
 * Software development and version control using Git
 * Scientific writing & presentation
