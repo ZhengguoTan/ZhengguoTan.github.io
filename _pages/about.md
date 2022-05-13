@@ -52,6 +52,7 @@ title: ""
 * Lecturer for ISMRM 2022 Weekend Educational Course
 * Lecturer for ISMRM 2021 Software Session on BART
 * Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session 
+* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 ## Ad-Hoc
 * Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1 
