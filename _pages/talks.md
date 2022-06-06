@@ -3,6 +3,8 @@ permalink: /talks/
 title: ""
 ---
 
+* 2022.06, **11th IMPRS NeuroCom Summar School** at Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. [link](https://imprs-neurocom.mpg.de/1244569/summer-school-2022), [slides]()
+
 * 2022.05, **Practical Reconstruction Implementation** in the ISMRM 2022 Weekend Course **Image Reconstruction: Theory, Methods & Practical Considerations**. [slides](/assets/talks/2022_ISMRM_Education_Prac-Recon.pdf), [video](/assets/talks/2022_ISMRM_Education_Prac-Recon_REPI.gif)
 
 * 2021.09, ISMRM-Endorsed Workshop on MRI Acquisition & Reconstruction: [Free-breathing water, fat, R2* and B0 mapping of the liver using multi-echo radial FLASH and model-based reconstruction](/assets/talks/2021_ISMRM_Workshop_Acq-Recon.pdf)
