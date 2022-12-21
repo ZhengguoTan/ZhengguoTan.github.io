@@ -6,9 +6,20 @@ title: ""
 <h1>Peer-Reviewed Journal Publication</h1>
 
 <ol reversed>
+
+  <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2022.</li>
+
+  <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.27795">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. Magnetic Resonance in Medicine 2022.</li>
+
+  <li>Wang X, <b>Tan Z</b>, Scholand N, Roeloffs V, Uecker M. <a href="https://doi.org/10.1098/rsta.2020.0196">Physics-based reconstruction methods for magnetic resonance imaging</a>. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 2021;379:20200196.</li>
+
+  <li>Kollmeier JM, <b>Tan Z</b>, Joseph AA, Kalentev O, Voit D, Merboldt KD, Frahm J. <a href="https://doi.org/10.1002/nbm.4184">Real-time multi-directional flow MRI using model-based reconstructions of undersampled radial FLASH -- A feasibility study</a>. NMR in Biomedicine 2019;32:e4184.</li>
+
   <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.27795">Dynamic water/fat separation and B0 inhomogeneity mapping - Joint estimation using triple-echo multi-spoke radial FLASH</a>. Magnetic Resonance in Medicine 2019;82:1000-1011.</li>
 
   <li>Watanabe T, <b>Tan Z</b>, Wang X, Martinez-Hernandez A, Frahm J. <a href="https://doi.org/10.1007/s00429-019-01858-0">Magnetic resonance imaging of noradrenergic neurons</a>. Brain Structure and Function 2019;224:1609-1625.</li>
+
+  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. <a href="https://www.nature.com/articles/s41598-019-41587-2">Magnetic resonance imaging of brain cell water</a>. Scientific Reports 2019;9:1-14.</li>
 
   <li>Merrem A, Hofer S, Hosseini ASA, Voit D, Merboldt KD, <b>Tan Z</b>, Frahm J. <a href="https://doi.org/10.1002/nbm.4074">Diffusion-weighted MRI of the prostate without susceptibility artifacts: Undersampled multi-shot turbo-STEAM with rotated radial trajectories</a>. NMR in Biomedicine 2019;32:e4074.</li>
 
