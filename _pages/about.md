@@ -42,12 +42,12 @@ title: ""
 # Professional Activities
 
 ## Journal/Conference Reviewers:
-* IEEE Transactions on Medcial Imaging
-* Magnetic Resoance in Medicine
+* IEEE Transactions on Medical Imaging
+* Magnetic Resonance in Medicine
 * NMR in Biomedicine
-* Journal of Magnetic Resoance Imaging
-* International Society for Magnetic Resoance in Medicine (ISMRM)
-* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+* Journal of Magnetic Resonance Imaging
+* International Society for Magnetic Resonance in Medicine (ISMRM)
+* International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
 ## ISMRM
 * Lecturer for ISMRM 2022 Weekend Educational Course
