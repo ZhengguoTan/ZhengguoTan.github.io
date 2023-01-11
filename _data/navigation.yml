@@ -5,6 +5,8 @@ main:
     url: /awards/
   - title: "Publication"
     url: /publication/
+  - title: "Collaboration"
+    url: /collaboration/
   - title: "Research"
     url: /research/
   - title: "Software"
@@ -19,6 +21,8 @@ side:
     url: /awards/
   - title: "Publication"
     url: /publication/
+  - title: "Collaboration"
+    url: /collaboration/
   - title: "Research"
     url: /research/
   - title: "Software"
