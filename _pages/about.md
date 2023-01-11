@@ -14,7 +14,7 @@ title: ""
 * 01.2020 - 12.2021: DFG-funded Temporary Principal Investigator.
 * 03.2019 - 12.2019: Postdoctoral Research Scientist.
 
-    - Pulse sequence programming of multi-echo and stack-of-radial sampling 
+    - Pulse sequence programming of multi-echo and stack-of-radial sampling
     - Implementation of model-based reconstruction with advanced regularization techniques in BART
     - Clinical evaluation of free-breathing liver fat and R2* mapping, including obesity, diabetes, and NAFLD patients
 
@@ -22,7 +22,7 @@ title: ""
 
 * 06.2016 - 02.2019: Postdoctoral Research Scientist.
 
-    - Development of dynamic water/fat separation technique 
+    - Development of dynamic water/fat separation technique
     - Development of a model-based reconstruction technique for real-time phase-contrast flow MRI
     - Implementation of automatic scaling of unknonws in model-based reconstruction
 
@@ -37,11 +37,11 @@ title: ""
 
 # Grants
 
-* DFG (German Research Foundation) Research Grant - Project Number [427934942](https://gepris.dfg.de/gepris/projekt/427934942) 
+* DFG (German Research Foundation) Research Grant - Project Number [427934942](https://gepris.dfg.de/gepris/projekt/427934942)
 
 # Professional Activities
 
-## Journal/Conference Reviewers: 
+## Journal/Conference Reviewers:
 * IEEE Transactions on Medcial Imaging
 * Magnetic Resoance in Medicine
 * NMR in Biomedicine
@@ -55,7 +55,7 @@ title: ""
 * Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session
 
 ## Ad-Hoc
-* Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1 
+* Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1
 
 # Training
 
@@ -64,6 +64,8 @@ title: ""
 * 2013, ESMRMB Lecture on "Inverse Imaging, Sparse Sampling, and More"
 
 # Teaching
+
+* 2023, Computational Imaging Project, University of Erlangen-Nürnberg.
 
 * 2022, Medical Engineering II (Medizintechnik II), University of Erlangen-Nürnberg.
 
