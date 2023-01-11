@@ -24,7 +24,7 @@ title: ""
 
     - Development of dynamic water/fat separation technique
     - Development of a model-based reconstruction technique for real-time phase-contrast flow MRI
-    - Implementation of automatic scaling of unknonws in model-based reconstruction
+    - Implementation of automatic scaling of unknowns in model-based reconstruction
 
 
 # Education
@@ -75,7 +75,7 @@ title: ""
 
 # Skills
 
-* Medical imaging, in particular Magnetic Resonance Imaging (MRI)
+* Medical imaging, in particular, Magnetic Resonance Imaging (MRI)
 * Numerical optimization
 * Programming: C/C++, CUDA, MATLAB, Python, Bash scripts, Deep learning frameworks
 * Software development and version control using Git
