@@ -1,6 +1,7 @@
 ---
 permalink: /publication/
 title: ""
+classes: wide
 ---
 
 <h1>Peer-Reviewed Journal Publication</h1>
