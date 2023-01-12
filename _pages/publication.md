@@ -25,6 +25,8 @@ title: ""
 
   <li>Maier IL, Hofer S, Joseph AA, Merboldt KD, <b>Tan Z</b>, Schregel K, Knauth M, Bähr M, Psychogios M, Liman J, Frahm J. <a href="https://doi.org/10.1016/j.ejrad.2018.07.011">Carotid artery flow as determined by real-time phase-contrast flow MRI and neurovascular ultrasound: A comparative study of healthy subjects</a>. European Journal of Radiology 2018;106:38-45.</li>
 
+  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. <a href="https://doi.org/10.1002/mrm.26726">Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH</a>. Magnetic Resonance in Medicine 2018;79:730-740.</li>
+
   <li><b>Tan Z</b>, Hohage T, Kalentev O, Joseph AA, Wang X, Voit D, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/nbm.3835">An eigenvalue approach for the automatic scaling of unknowns in model-based reconstructions: application to real-time phase-contrast flow MRI</a>. NMR in Biomedicine 2017;30:e3835.</li>
 
   <li><b>Tan Z</b>, Roeloffs V, Voit D, Joseph AA, Untenberger M, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.26192">Model-based reconstruction for real-time phase-contrast flow MRI: improved spatiotemporal accuracy</a>. Magnetic Resonance in Medicine 2017;77:1082-1093.</li>
