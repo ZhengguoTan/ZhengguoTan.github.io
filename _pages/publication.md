@@ -59,3 +59,9 @@ title: ""
 <ul>
   <li>Tan Z. <a href="https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0028-8763-3">Advances in real-time phase-contrast flow MRI and multi-echo radial FLASH</a>. Göttingen University 2016.</li>
 </ul>
+
+<h1>arXiv Publication</h1>
+
+<ol reversed>
+  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
+</ol>
