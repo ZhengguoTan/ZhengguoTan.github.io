@@ -29,7 +29,7 @@ title: ""
 
 # Education
 
-* 09.2012 - 06.2016: Dr. rer. nat. Advised by Prof. Dr. Jens Frahm at [Max Planck Institute for Biophysical Chemistry (MPIBPC)](https://www.mpibpc.mpg.de/en), Göttingen, Germany
+* 09.2012 - 06.2016: Dr. rer. nat. Advised by Prof. Dr. Jens Frahm at [Max Planck Institute for Biophysical Chemistry (MPIBPC)](https://www.mpinat.mpg.de/en), Göttingen, Germany
 
 * 09.2010 - 06.2012: Master of Science Majoring in Biomedical Engineering at [Duke University](https://www.duke.edu), Durham, USA
 
