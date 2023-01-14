@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: zhengguo_tan
 github_username: ZhengguoTan
 minimal_mistakes_skin: "mint"
-search: true
+search: false  # true
 
 # Build settings
 markdown: kramdown
