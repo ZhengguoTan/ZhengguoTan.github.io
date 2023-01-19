@@ -26,9 +26,9 @@ title: ""
 ---
 ### Stack-of-Stars Volumetric Sampling
 
-- The above 2D radial sampling schemes have been integrated with [stack-of-stars](http://www.koreascience.or.kr/article/JAKO201430754387343.page) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging.
-
 ![](/assets/research/seq_multi-echo_stack-of-radial.png)
+
+- The above 2D radial sampling schemes have been integrated with [stack-of-stars](http://www.koreascience.or.kr/article/JAKO201430754387343.page) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging.
 
 - Here is an example of [the stack-of-stars acquisition on the NIST phantom and NUFFT reconstruction](/assets/research/NIST_cor_loop.gif):
 
