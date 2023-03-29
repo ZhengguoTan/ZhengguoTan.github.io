@@ -65,9 +65,20 @@ title: ""
 
 # Teaching
 
+* 2023, Magnetic Resonance Imaging sequence programming [MRIpulseq], University of Erlangen-Nürnberg.
+
+    Together with Prof. Dr. Moritz Zaiss.
+
+
 * 2023, Computational Imaging Project, University of Erlangen-Nürnberg.
 
+    Together with Prof. Dr. Florian Knoll.
+
+
 * 2022, Medical Engineering II (Medizintechnik II), University of Erlangen-Nürnberg.
+
+    Together with Prof. Dr. Florian Knoll and Prof. Dr. Bernhard Kainz.
+
 
 * 2014, Scientific Computing II, Physics Department, University of Göttingen.
 
@@ -77,6 +88,7 @@ title: ""
 
 * Medical imaging, in particular, Magnetic Resonance Imaging (MRI)
 * Numerical optimization
-* Programming: C/C++, CUDA, MATLAB, Python, Bash scripts, Deep learning frameworks
+* Programming: C/C++, CUDA, MATLAB, Anaconda/Python, Bash scripts, Deep learning frameworks
+* Deep Learning: PyTorch
 * Software development and version control using Git
 * Scientific writing & presentation
