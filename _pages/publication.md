@@ -8,7 +8,7 @@ classes: wide
 
 <ol reversed>
 
-  <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2022.</li>
+  <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2023;42:1374-1387.</li>
 
   <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.27795">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. Magnetic Resonance in Medicine 2022.</li>
 
