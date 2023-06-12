@@ -50,6 +50,8 @@ title: ""
 * International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
 ## ISMRM
+* Interactive open-source code demo at [MR-Pub](https://ismrm.github.io/mrpub/) Competition in ISMRM 2023
+* MR Expert for ISMRM 2023 Newbie Reception
 * Lecturer for ISMRM 2022 Weekend Educational Course
 * Lecturer for ISMRM 2021 Software Session on BART
 * Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session
