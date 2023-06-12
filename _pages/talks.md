@@ -3,6 +3,8 @@ permalink: /talks/
 title: ""
 ---
 
+* 2023.06, **Interactive Open-Source Code Demo at MR-Pub III Competition**, organized by [Reproducible Research Study Group](https://ismrm.github.io/rrsg/) at ISMRM 2023, Toronto, CAN. [codes](https://github.com/ZhengguoTan/demo_jets_diffusion_mri_7t), [slides](/assets/talks/2023_MR-Pub_JETS.pptx)
+
 * 2023.01, **ISMRM Workshop on Data Sampling & Image Reconstruction** at Sedona, AZ, USA. [link](https://www.ismrm.org/workshops/2023/Data/), [slides](/assets/talks/2023_Sedona_model-based_DTI.pdf)
 
 * 2022.06, **11th IMPRS NeuroCom Summar School** at Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. [link](https://imprs-neurocom.mpg.de/1244569/summer-school-2022), [slides]()
