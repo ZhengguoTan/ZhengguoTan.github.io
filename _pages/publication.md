@@ -38,6 +38,8 @@ classes: wide
 <h1>Peer-Reviewed First-Authored Conference Publication</h1>
 
 <ol reversed>
+  <li>Tan Z, et al. <a href="">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
+
   <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/Data22/abstracts/Tan_Zhengguo.pdf">Unbox model-based reconstruction: Examples employing 7T diffusion MRI</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
   <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/22MPresentations/abstracts/1860.html">Radial Echo-Planar Imaging with Subspace Reconstruction for Brain MRI</a>. ISMRM 2022;31:1860. (Digital poster)</li>
