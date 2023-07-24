@@ -4,7 +4,7 @@ title: ""
 classes: wide
 ---
 
-<h1>Peer-Reviewed Journal Publication</h1>
+<h2>Peer-Reviewed Journal Publication</h2>
 
 <ol reversed>
 
@@ -35,7 +35,7 @@ classes: wide
   <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. Magnetic Resonance in Medicine 2016;75:1901-1908. (# Equal Contribution)</li>
 </ol>
 
-<h1>Peer-Reviewed First-Authored Conference Publication</h1>
+<h2>Peer-Reviewed First-Authored Conference Publication</h2>
 
 <ol reversed>
   <li>Tan Z, et al. <a href="">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
@@ -59,13 +59,13 @@ classes: wide
   <li> Tan Z, et al. <a href="http://cds.ismrm.org/protected/12MProceedings/files/2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
 </ol>
 
-<h1>PhD Thesis</h1>
+<h2>PhD Thesis</h2>
 
 <ul>
   <li>Tan Z. <a href="https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0028-8763-3">Advances in real-time phase-contrast flow MRI and multi-echo radial FLASH</a>. Göttingen University 2016.</li>
 </ul>
 
-<h1>arXiv Publication</h1>
+<h2>arXiv Publication</h2>
 
 <ol reversed>
   <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
