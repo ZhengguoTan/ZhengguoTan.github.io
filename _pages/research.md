@@ -3,54 +3,64 @@ permalink: /research/
 title: ""
 ---
 
-# **MR Pulse Sequence Programming**
+## 1. Real-Time MRI / Fast MRI (Cardiovascular)
 
-----
-### Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
+* Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
 
-![](/assets/research/seq_asym-echo.png)
+    ![](/assets/research/seq_asym-echo.png)
 
-- Asymmetric-echo readout shortens echo time (TE), and is beneficial in combination with flow-compensation and -encoding gradients.
+    - Asymmetric-echo readout shortens echo time (TE), and is beneficial in combination with flow-compensation and -encoding gradients.
 
-- Overlapping of flow gradients with pre-dephasing and/or slice-rewinder gradients further reduces TE.
+    - Overlapping of flow gradients with pre-dephasing and/or slice-rewinder gradients further reduces TE.
 
-----
-### Multi-Echo Radial Sampling
+* Aortic Blood Flow Quantification
 
-![](/assets/research/seq_multi-echo.png)
+    ![](/assets/research/recon_flow.png)
 
-- In analogy with the famous echo-planar imaging (EPI), multi-echo radial samples multiple echoes at different k-space radial spokes per radio frequency (RF) excitation.
+    - The model-based reconstruction directly and jointly estimate the magnitude and the phase-difference image from acquired *k*-space data.
 
-- It can be applied to water/fat separation, functional MRI, quantitative T2* mapping, and even diffusion/susceptibility imaging (under development).
+    - With proper regularization on the phase-difference map, the model-based reconstruction largely removes random phase noise in the background, which appears from the conventional phase difference calculation between two images.
 
----
-### Stack-of-Stars Volumetric Sampling
+## 2. Multi-Echo Radial Sampling
 
-![](/assets/research/seq_multi-echo_stack-of-radial.png)
+* Basic Sequence Framework
 
-- The above 2D radial sampling schemes have been integrated with [stack-of-stars](http://www.koreascience.or.kr/article/JAKO201430754387343.page) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging.
+    ![](/assets/research/seq_multi-echo.png)
 
-- Here is an example of [the stack-of-stars acquisition on the NIST phantom and NUFFT reconstruction](/assets/research/NIST_cor_loop.gif):
+    - In analogy with the famous echo-planar imaging (EPI), multi-echo radial samples multiple echoes at different k-space radial spokes per radio frequency (RF) excitation.
 
-----
-# **Model-based Reconstruction**
+    - It can be applied to water/fat separation, functional MRI, quantitative T2* mapping, and even diffusion/susceptibility imaging (under development).
 
-----
-### Real-Time Phase-Contrast Flow MRI
+* Stack-of-Stars Volumetric Acquisition
 
-![](/assets/research/recon_flow.png)
 
-- The model-based reconstruction directly and jointly estimate the magnitude and the phase-difference image from acquired *k*-space data.
+    ![](/assets/research/seq_multi-echo_stack-of-radial.png)
 
-- With proper regularization on the phase-difference map, the model-based reconstruction largely removes random phase noise in the background, which appears from the conventional phase difference calculation between two images.
+    - The above 2D radial sampling schemes have been integrated with [stack-of-stars](http://www.koreascience.or.kr/article/JAKO201430754387343.page) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging.
 
-----
-### Water/Fat Separation, R2* and B0 Field Inhomogeneity Mapping
+        ![](/assets/research/NIST_cor_loop.gif)
 
-![](/assets/research/recon_multi-echo_liver.png)
+    - Here is an example of the stack-of-stars acquisition on the NIST phantom and NUFFT reconstruction
 
-- Joint estimation based on [iteratively regularized Gauß-Newton method (IRGNM)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.21691) and [alternating direction method of multipliers (ADMM)](https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) to allow for generalized regularization.
 
-- Free-breathing liver fat and R2* mapping in 2 minutes for 3D acquisition.
+* Application #1: Water/Fat Separation, R2* and B0 Field Inhomogeneity Mapping (Liver)
 
-- Respiratory motion is resolved with the [SSA-FARY](https://ieeexplore.ieee.org/document/9057630) self-gating technique.
+    ![](/assets/research/recon_multi-echo_liver.png)
+
+    - Joint estimation based on [iteratively regularized Gauß-Newton method (IRGNM)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.21691) and [alternating direction method of multipliers (ADMM)](https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) to allow for generalized regularization.
+
+    - Free-breathing liver fat and R2* mapping in 2 minutes for 3D acquisition.
+
+    - Respiratory motion is resolved with the [SSA-FARY](https://ieeexplore.ieee.org/document/9057630) self-gating technique.
+
+* Application #2: T2*-weighted imaging (Brain)
+
+    ![](/assets/research/recon_multi-echo_brain.gif)
+
+## 3. Brain Diffusion MRI at 7T (Neuro)
+
+* [NAViEPI](https://github.com/ZhengguoTan/NAViEPI): *where interleaved EPI meets readout-segmented EPI*
+
+* Generalized joint k-q-slice reconstruction
+
+* Data: hosted on [Zenodo](https://zenodo.org/records/10474402)
