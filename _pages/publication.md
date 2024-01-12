@@ -8,9 +8,11 @@ classes: wide
 
 <ol reversed>
 
+  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. Imaging Neuroscience 2024.</li>
+
   <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2023;42:1374-1387.</li>
 
-  <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.27795">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. Magnetic Resonance in Medicine 2022.</li>
+  <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.29521">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. Magnetic Resonance in Medicine 2023;89:1368-1384.</li>
 
   <li>Wang X, <b>Tan Z</b>, Scholand N, Roeloffs V, Uecker M. <a href="https://doi.org/10.1098/rsta.2020.0196">Physics-based reconstruction methods for magnetic resonance imaging</a>. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 2021;379:20200196.</li>
 
@@ -35,28 +37,46 @@ classes: wide
   <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. Magnetic Resonance in Medicine 2016;75:1901-1908. (# Equal Contribution)</li>
 </ol>
 
-<h2>Peer-Reviewed First-Authored Conference Publication</h2>
+<h2>Peer-Reviewed Conferences Publication</h2>
 
 <ol reversed>
-  <li>Tan Z, et al. <a href="">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
+  <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. On the use of autoencoder to denoise diffusion MRI. ESMRMB 2023. (Oral)</li>
 
-  <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/Data22/abstracts/Tan_Zhengguo.pdf">Unbox model-based reconstruction: Examples employing 7T diffusion MRI</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
+  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
 
-  <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/22MPresentations/abstracts/1860.html">Radial Echo-Planar Imaging with Subspace Reconstruction for Brain MRI</a>. ISMRM 2022;31:1860. (Digital poster)</li>
+  <li>Bae J, <b>Tan Z</b>, Huang Z, Heacock L, Moy L, Knoll F, Kim S. Realistic Digital Reference Object (DRO) toolkit for quantitative breast Ultra-Fast Dynamic Contrast-Enhanced (UF-DCE) MRI. ISMRM 2023;32:2738. (Poster)</li>
 
-  <li>Tan Z, et al. <a href="/assets/talks/2021_EMIM_poster.pdf">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT)</a>. 16th Annual Meeting of the European Society for Molecular Imaging, 2021.</li>
+  <li>Wang X, <b>Tan Z</b>, Scholand N, Bilgic B, Uecker M. Model-Based Reconstruction for Joint Estimation of T1, T2* & B0 Inhomogeneity Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
-  <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT)</a>. ISMRM 2021;30:0753. (Combined educational and scientific oral) <b>magna cum laude</b></li>
+  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="https://cds.ismrm.org/protected/Data22/abstracts/Tan_Zhengguo.pdf">Unbox model-based reconstruction: Examples employing 7T diffusion MRI</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
-  <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/20MPresentations/abstracts/1019.html">Dynamic water, fat, R2* and B0 field inhomogeneity quantification using multi-echo multi-spoke radial FLASH</a>. ISMRM 2020;29:1019. (Oral)</li>
+  <li><b>Tan Z</b>, Uecker M. <a href="https://cds.ismrm.org/protected/22MPresentations/abstracts/1860.html">Radial Echo-Planar Imaging with Subspace Reconstruction for Brain MRI</a>. ISMRM 2022;31:1860. (Digital poster)</li>
 
-  <li>Tan Z, et al. <a href="https://cds.ismrm.org/protected/19MPresentations/abstracts/0689.html">Dynamic water/fat separation and field inhomogeneity mapping at a temporal resolution of 40 ms</a>. ISMRM 2019;28:0689. (Power pitch) <b>summa cum laude</b></li>
+  <li><b>Tan Z</b>, Uecker M. <a href="/assets/talks/2021_EMIM_poster.pdf">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction </a>. 16th Annual Meeting of the European Society for Molecular Imaging, 2021.</li>
 
-  <li>Tan Z, et al. <a href="http://cds.ismrm.org/protected/18MPresentations/abstracts/4137.html">Model-based reconstruction with automatic scaling for real-time phase-contrast flow MRI with complementary sets of radial spokes</a>. ISMRM 2018;27:4137. (e-Poster)</li>
+  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme HCM, Blumenthal M, Uecker M. <a href="https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT)</a>. ISMRM 2021;30:0753. (Combined educational and scientific oral) <b>magna cum laude</b></li>
 
-  <li> Tan Z, et al. <a href="https://cds.ismrm.org/protected/16MPresentations/abstracts/0096.html">Model-based reconstruction for real-time phase-contrast flow MRI - Improved spatiotemporal accuracy</a>. ISMRM 2016;24:0098. (Power pitch) <b>summa cum laude</b></li>
+  <li>Wang X, Rosenzweig S, Blumenthal M, <b>Tan Z</b>, Scholand N, Uecker M. Free-Breathing, motion-resolved myocardial T1 mapping using inversion-recovery radial FLASH and model-based reconstruction. ISMRM 2021;30:3598.</li>
 
-  <li> Tan Z, et al. <a href="http://cds.ismrm.org/protected/12MProceedings/files/2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
+  <li>Luo G, Wang X, Roeloffs V, <b>Tan Z</b>, Uecker M. Joint estimation of coil sensitivities and image content using a deep image prior. ISMRM 2021;30:0280. (Oral)</li>
+
+  <li><b>Tan Z</b>, Dechent P, Wang X, Scholand N, Voit D, Frahm J, Uecker M. <a href="https://cds.ismrm.org/protected/20MPresentations/abstracts/1019.html">Dynamic water, fat, R2* and B0 field inhomogeneity quantification using multi-echo multi-spoke radial FLASH</a>. ISMRM 2020;29:1019. (Oral)</li>
+
+  <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="https://cds.ismrm.org/protected/19MPresentations/abstracts/0689.html">Dynamic water/fat separation and field inhomogeneity mapping at a temporal resolution of 40 ms</a>. ISMRM 2019;28:0689. (Power pitch) <b>summa cum laude</b></li>
+
+  <li><b>Tan Z</b>, Kollmeier JM, Joseph AA, Kalentev O, Voit D, Merboldt KD, Hohage T, Frahm J. <a href="http://cds.ismrm.org/protected/18MPresentations/abstracts/4137.html">Model-based reconstruction with automatic scaling for real-time phase-contrast flow MRI with complementary sets of radial spokes</a>. ISMRM 2018;27:4137. (e-Poster)</li>
+
+  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. Magnetization transfer in brain: Comparison to relaxation and proton density. ESMRMB 2017;34:344. (Power pitch)</li>
+
+  <li>Kollmeier JM, Joseph AA, Voit D, <b>Tan Z</b>, Merboldt KD, Frahm J. 2D in-plane flow MRI in real time. ESMRMB 2017;34:305. (Oral)</li>
+
+  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH. ESMRMB 2017;34:180. (Oral)</li>
+
+  <li><b>Tan Z</b>, et al. <a href="https://cds.ismrm.org/protected/16MPresentations/abstracts/0096.html">Model-based reconstruction for real-time phase-contrast flow MRI - Improved spatiotemporal accuracy</a>. ISMRM 2016;24:0098. (Power pitch) <b>summa cum laude</b></li>
+
+  <li>Hilbert T, Kober T, Sumpf TJ, <b>Tan Z</b>, Frahm J, Falkovskiy P, Meyer H, Bendl R, Thiran JP, Meuli R, Krueger G. MARTINI and GRAPPA - When speed is taste. ISMRM 2014;22:4077. (Poster)</li>
+
+  <li><b>Tan Z</b>, Chen NK. <a href="http://cds.ismrm.org/protected/12MProceedings/files/2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
 </ol>
 
 <h2>PhD Thesis</h2>
