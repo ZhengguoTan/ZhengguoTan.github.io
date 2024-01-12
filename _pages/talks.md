@@ -5,7 +5,7 @@ title: ""
 
 * 2023.06, **MRI: Speed, Phase, Echo** at [Michigan Institute for Imaging Technology and Translation (MIITT)](https://miitt.med.umich.edu/), Department of Radiology, University of Michigan in Ann Arbor. [slides]()
 
-* 2023.06, **Interactive Open-Source Code Demo at MR-Pub III Competition**, organized by [Reproducible Research Study Group](https://ismrm.github.io/rrsg/) at ISMRM 2023, Toronto, CAN. [codes](https://github.com/ZhengguoTan/demo_jets_diffusion_mri_7t), [slides](/assets/talks/2023_MR-Pub_JETS.pptx)
+* 2023.06, **Interactive Open-Source Code Demo at MR-Pub III Competition**, organized by [Reproducible Research Study Group](https://ismrm.github.io/rrsg/) at ISMRM 2023, Toronto, CAN. [codes](https://github.com/ZhengguoTan/NAViEPI), [slides](/assets/talks/2023_MR-Pub_JETS.pptx)
 
 * 2023.01, **ISMRM Workshop on Data Sampling & Image Reconstruction** at Sedona, AZ, USA. [link](https://www.ismrm.org/workshops/2023/Data/), [slides](/assets/talks/2023_Sedona_model-based_DTI.pdf)
 
