@@ -8,7 +8,7 @@ classes: wide
 
 <ol reversed>
 
-  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. Imaging Neuroscience 2024.</li>
+  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. Imaging Neuroscience 2024.</li>
 
   <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2023;42:1374-1387.</li>
 
