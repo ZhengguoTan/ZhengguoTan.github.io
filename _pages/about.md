@@ -88,7 +88,7 @@ title: ""
 
 * Medical imaging, in particular, Magnetic Resonance Imaging (MRI)
 * Numerical optimization
-* Programming: C/C++, CUDA, MATLAB, Anaconda/Python, Bash scripts
+* Programming: C/C++, CUDA, MATLAB, Anaconda/Python, Bash scripts, Slurm
 * Deep Learning: PyTorch
 * Software development and version control using Git
 * Scientific writing & presentation
