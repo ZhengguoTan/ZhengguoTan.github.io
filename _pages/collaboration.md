@@ -3,7 +3,7 @@ permalink: /collaboration/
 title: ""
 ---
 
-### Collaborators
+## Collaborators
 
 I am fortunate to collaborate with
 
@@ -14,8 +14,41 @@ I am fortunate to collaborate with
 * Dr. Gene Kim from Cornell University, New York, NY, USA
 
 
-### Students
+## Students
 
-I am fortunate to work with
+### Supervised master theses:
 
-* Ms. Soundarya Soundarresan (Master student co-supervised with Dr. Florian Knoll)
+||||
+| --- | --- | --- |
+| Student | Time | Topic |
+|Ms. Soundarya Soundarresan | 2022 - 2023 | Denoising AutoEncoder |
+|Mr. Julius Glaser | 2023 - 2024 | tba |
+||||
+
+### Supervised master projects:
+
+- Winter Semester 2022/2023
+    - Srikar Kallem
+    - Andres Lizarraga Papachoris
+    - Yu Zou
+
+- Summer Semester 2023
+    - Rodrigo Andujar Lugo
+    - Arianna Brenes
+    - Shweta Devani
+    - Maher Devani
+    - Julius Glaser
+    - Xiaolei Li
+    - Victoria Alejandra Rincon Guevara
+    - Ximeng Zhang
+    - Kai Zhao
+
+- Winter Semester 2023/2024
+    - Jinying Chen
+    - Abdallah Eid
+    - Xinyi Hunag
+    - Jiayi Jia
+    - Yen-Ju Lu
+    - Yutong Luo
+    - Dhruv Sharma
+    - Xie Xu
