@@ -16,7 +16,7 @@ I am fortunate to collaborate with
 
 ## Students
 
-### Supervised master theses:
+### Mentored master theses:
 
 ||||
 | --- | --- | --- |
@@ -25,7 +25,7 @@ I am fortunate to collaborate with
 |Mr. Julius Glaser | 2023 - 2024 | tba |
 ||||
 
-### Supervised master projects:
+### Mentored master projects:
 
 - Winter Semester 2022/2023
     - Srikar Kallem
