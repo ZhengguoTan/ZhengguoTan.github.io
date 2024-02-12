@@ -8,6 +8,10 @@ classes: wide
 
 <ol reversed>
 
+  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. Under Review 2024.</li>
+
+  <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. <a href="">Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods</a>. Under Review 2024.</li>
+
   <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. Imaging Neuroscience 2024.</li>
 
   <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. IEEE Transactions on Medical Imaging 2023;42:1374-1387.</li>
