@@ -7,7 +7,7 @@ title: ""
 
 I am fortunate to collaborate with
 
-* Dr. Patrick Liebig and Dr. Robin M Heidemann from Siemens Healthcare GmbH, Erlangen, Germany
+* Dr. Robin M Heidemann, Dr. Patrick Liebig, and Dr. Thomas Yu from Siemens Healthcare GmbH, Erlangen, Germany
 
 * Dr. Frederik B Laun from University Hospital Erlangen, Erlangen, Germany
 
