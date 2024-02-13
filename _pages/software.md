@@ -17,7 +17,11 @@ Please refer to [mrirecon@github](https://github.com/mrirecon/multi-echo-liver) 
 
 * source code: [hd-sigpy](https://github.com/ZhengguoTan/sigpy)
 
-* data: [zenodo](https://zenodo.org/records/10474402)
+* data:
+
+    publication: https://zenodo.org/records/10474402
+
+    iEPI - 1.2mm: https://zenodo.org/records/10531987
 
 ## Dynamic Contrast-Enhanced (DCE) MRI
 
