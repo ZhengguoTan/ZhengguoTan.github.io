@@ -25,4 +25,6 @@ Please refer to [mrirecon@github](https://github.com/mrirecon/multi-echo-liver) 
 
 ## Dynamic Contrast-Enhanced (DCE) MRI
 
-* reconstruction demo: https://github.com/ZhengguoTan/demo_dce_recon
+* reconstruction demo:
+
+    [compressed sensing reconstruction with temporal total variation regularization](https://github.com/ZhengguoTan/demo_dce_recon)
