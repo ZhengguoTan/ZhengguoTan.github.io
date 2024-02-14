@@ -3,6 +3,8 @@ permalink: /awards/
 title: ""
 ---
 
+* Distinguished Reviewer for Magnetic Resonance in Medicine 2023
+
 * ISMRM Reproducible Research Study Group [MR-Pub](https://ismrm.github.io/mrpub/) Competition **2nd Place** 2023
 
 * ISMRM Merit Award **magna cum laude** (top 15% of all accepted abstracts) 2021
