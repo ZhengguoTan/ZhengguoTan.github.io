@@ -11,7 +11,7 @@ I am fortunate to collaborate with
 
 * Dr. Frederik B Laun from University Hospital Erlangen, Erlangen, Germany
 
-* Dr. Gene Kim from Cornell University, New York, NY, USA
+* Dr. Gene Kim and Dr. Eddy Solomon from Cornell University, New York, NY, USA
 
 
 ## Students
