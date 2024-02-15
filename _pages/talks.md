@@ -9,7 +9,7 @@ title: ""
 
 * 2023.01, **ISMRM Workshop on Data Sampling & Image Reconstruction** at Sedona, AZ, USA. [link](https://www.ismrm.org/workshops/2023/Data/), [slides](/assets/talks/2023_Sedona_model-based_DTI.pdf)
 
-* 2022.06, **11th IMPRS NeuroCom Summar School** at Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. [link](https://imprs-neurocom.mpg.de/1244569/summer-school-2022), [slides]()
+* 2022.06, **11th IMPRS NeuroCom Summar School** at Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. [slides](assets/talks/2022_Leipzig_NeuroCom_DL-MRI.pdf)
 
 * 2022.05, **Practical Reconstruction Implementation** in the ISMRM 2022 Weekend Course **Image Reconstruction: Theory, Methods & Practical Considerations**. [slides](/assets/talks/2022_ISMRM_Education_Prac-Recon.pdf), [video](/assets/talks/2022_ISMRM_Education_Prac-Recon_REPI.gif)
 
