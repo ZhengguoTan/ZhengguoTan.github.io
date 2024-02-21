@@ -21,7 +21,9 @@ Please refer to [mrirecon@github](https://github.com/mrirecon/multi-echo-liver) 
 
     publication: https://zenodo.org/records/10474402
 
-    iEPI - 1.2mm: https://zenodo.org/records/10531987
+    iEPI - 1.2mm, 2 shots: https://zenodo.org/records/10531987
+
+    iEPI - 1.0mm, 4 shots: https://zenodo.org/records/10668487
 
 ## Dynamic Contrast-Enhanced (DCE) MRI
 
