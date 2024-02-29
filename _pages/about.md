@@ -5,13 +5,16 @@ title: ""
 
 ## Work Experience
 
-**Research Group of [Prof. Dr. Florian Knoll](https://scholar.google.de/citations?user=FFUVmiUAAAAJ&hl=de), Department of Artificial Intelligence in Biomedical Engineering, University of Erlangen-Nuremberg**
+**Research Group of [Prof. Dr. Florian Knoll](https://scholar.google.de/citations?user=FFUVmiUAAAAJ&hl=de), Department of Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-University of Erlangen-Nuremberg (FAU)**
 
-* 01.2022 - Present: Postdoctoral Researcher.
+* 01.2022 - 06.2024: Postdoctoral Researcher.
+
+    - Development of [JETS-NAViEPI](https://doi.org/10.1162/imag_a_00085) for high-resolution diffusion MRI at ultra-high field (7T)
+    - Development of deep learning reconstruction techniques for perfusion and diffusion MRI
 
 **Research Group of [Prof. Dr. Martin Uecker](http://wwwuser.gwdg.de/~muecker1/), Department of Diagnostic and Interventional Radiology, University Medical Center Göttingen**
 
-* 01.2020 - 12.2021: DFG-funded Temporary Principal Investigator.
+* 01.2020 - 12.2021: DFG sponsored Principal Investigator.
 * 03.2019 - 12.2019: Postdoctoral Research Scientist.
 
     - Pulse sequence programming of multi-echo and stack-of-radial sampling
@@ -68,21 +71,23 @@ title: ""
 
 ## Teaching
 
-* 2023, Magnetic Resonance Imaging sequence programming [MRIpulseq], University of Erlangen-Nürnberg.
-
-    Together with Prof. Dr. Moritz Zaiss.
-
-* 2022 - 2023, Computational Imaging Project, University of Erlangen-Nürnberg.
+* 2022 - 2024, Computational Imaging Project, FAU.
 
     Together with Prof. Dr. Florian Knoll.
 
-* 2022 - 2023, Medical Engineering II (Medizintechnik II), University of Erlangen-Nürnberg.
+* 2023, Magnetic Resonance Imaging sequence programming [MRIpulseq], FAU.
+
+    Together with Prof. Dr. Moritz Zaiss.
+
+* 2022 - 2023, Medical Engineering II (Medizintechnik II), FAU.
 
     Together with Prof. Dr. Florian Knoll and Prof. Dr. Bernhard Kainz.
 
 * 2014, Scientific Computing II, Physics Department, University of Göttingen.
 
-* 2012 - 2015, Basic Principle of MRI and Real-Time MRI, International Max Planck Research School "Physics of Biological and Complex Systems".
+* 2012 - 2015, Basic Principle of MRI and Real-Time MRI
+
+  International Max Planck Research School (IMPRS) on "Physics of Biological and Complex Systems".
 
 ## Skills
 
