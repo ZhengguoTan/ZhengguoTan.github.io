@@ -97,3 +97,9 @@ title: ""
 * Deep Learning: PyTorch
 * Software development and version control using Git
 * Scientific writing & presentation
+
+<div align="center">
+    <div align="center" style="width:20%">
+        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=BYVXkC7H0rk7vWHtX83tAJfYSNFZcRSnF-4dzS7a0lc"></script>
+    </div>
+</div>
