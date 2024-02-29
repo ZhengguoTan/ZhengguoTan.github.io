@@ -98,8 +98,4 @@ title: ""
 * Software development and version control using Git
 * Scientific writing & presentation
 
-<div align="center">
-    <div align="center" style="width:20%">
-        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=BYVXkC7H0rk7vWHtX83tAJfYSNFZcRSnF-4dzS7a0lc"></script>
-    </div>
-</div>
+<a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a>
