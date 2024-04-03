@@ -21,7 +21,7 @@ nav_order: 3
 
     {% include figure.liquid loading="eager" path="/assets/research/recon_flow.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-- The model-based reconstruction directly and jointly estimate the magnitude and the phase-difference image from acquired _k_-space data.
+- The model-based reconstruction directly and jointly estimates the magnitude and the phase-difference image from acquired _k_-space data.
 
 - With proper regularization on the phase-difference map, the model-based reconstruction largely removes random phase noise in the background, which appears from the conventional phase difference calculation between two images.
 
