@@ -49,9 +49,9 @@ nav_order: 2
 <ol reversed>
   <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. On the use of autoencoder to denoise diffusion MRI. ESMRMB 2023. (Oral)</li>
 
-  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
+  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2023_ismrm_3961.pdf">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
 
-  <li>Bae J, <b>Tan Z</b>, Huang Z, Heacock L, Moy L, Knoll F, Kim S. Realistic Digital Reference Object (DRO) toolkit for quantitative breast Ultra-Fast Dynamic Contrast-Enhanced (UF-DCE) MRI. ISMRM 2023;32:2738. (Poster)</li>
+  <li>Bae J, <b>Tan Z</b>, Huang Z, Heacock L, Moy L, Knoll F, Kim S. <a href="/assets/conferences/2023_ismrm_2738.pdf">Realistic Digital Reference Object (DRO) toolkit for quantitative breast Ultra-Fast Dynamic Contrast-Enhanced (UF-DCE) MRI</a>. ISMRM 2023;32:2738. (Poster)</li>
 
   <li>Wang X, <b>Tan Z</b>, Scholand N, Bilgic B, Uecker M. Model-Based Reconstruction for Joint Estimation of T1, T2* & B0 Inhomogeneity Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
