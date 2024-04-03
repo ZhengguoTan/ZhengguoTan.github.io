@@ -34,7 +34,7 @@ building efficient deep learning reconstruction methods
 for magnetic resonance imaging (MRI).
 Meanwhile, I was a lecturer on the core master study module
 "Computational Imaging Project", mentoring about 8 master students per semester.
-Before that, I was a postdoctoral project leader sponsored by the German Research Foundation (<a href='https://gepris.dfg.de/gepris/projekt/427934942'>DFG</a>)
+Before that, I was a postdoctoral project leader sponsored by the German Research Foundation (<a href='https://www.dfg.de/en'>DFG</a>)
 at the University Medical Center Goettingen (<a href='https://www.umg.eu/'>UMG</a>) and
 adjunct at Max Planck Institute for Multidisciplinary Sciences (<a href='https://www.mpinat.mpg.de/en'>MPINAT</a>). I worked with <a href='https://www.tugraz.at/institute/ibi/home'>Prof. Dr. Martin Uecker</a> and <a href='https://de.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a> developing advanced pulse sequences and iterative reconstruction methods for fast MRI.
 
