@@ -27,7 +27,6 @@
         - Development of a model-based reconstruction technique for real-time phase-contrast flow MRI
         - Implementation of automatic scaling of unknowns in model-based reconstruction
 
-
 - title: Education
   type: time_table
   contents:
@@ -43,7 +42,6 @@
       institution: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>, Hangzhou, China
       year: 09.05 - 06.10
 
-
 - title: Grants
   type: time_table
   contents:
@@ -51,7 +49,6 @@
       year: 12.19 - 12.21
       description:
         - Project Number <a href='https://gepris.dfg.de/gepris/projekt/427934942'>427934942</a>
-
 
 - title: Awards
   type: time_table
@@ -76,7 +73,6 @@
         - ISMRM Educational Stipend
         - Dr. rer. nat. Dissertation with summa cum laude
 
-
 - title: Services
   type: nested_list
   contents:
@@ -94,13 +90,11 @@
         - ISMRM
         - MICCAI
 
-
 - title: Skills
   type: list
   contents:
     - <u>Languages:</u> Chinese (Mandarin and Cantonese), English, German
     - <u>Programming:</u> C/C++, CUDA, MATLAB, Anaconda/Python, PyTorch (Deep Learning), Bash, Git, Slurm
-
 
 - title: Training
   type: time_table
