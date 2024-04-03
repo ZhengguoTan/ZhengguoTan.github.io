@@ -1,97 +1,116 @@
-- title: General Information
-  type: map
+- title: Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - title: Postdoctoral Scientist
+      institution: Department of Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-University of Erlangen-Nuremberg (FAU), Erlangen, Germany
+      year: 01.22 - 06.24
+      description:
+        - Prof. Dr. Florian Knoll
+        - Development of <a href='https://doi.org/10.1162/imag_a_00085'>JETS-NAViEPI</a> for high-resolution diffusion MRI at ultra-high field (7T)
+        - Development of deep learning reconstruction techniques for perfusion and diffusion MRI
+
+    - title: DFG sponsored Principal Investigator
+      institution: Department of Diagnostic and Interventional Radiology, University Medical Center Göttingen, Göttingen, Germany
+      year: 12.19 - 12.21
+      description:
+        - Prof. Dr. Martin Uecker
+        - Pulse sequence programming of multi-echo and stack-of-radial sampling
+        - Implementation of model-based reconstruction with advanced regularization techniques in BART
+        - Clinical evaluation of free-breathing liver fat and R2* mapping, including obesity, diabetes, and NAFLD patients
+
+    - title: Postdoctoral Researcher
+      institution: Max Planck Institute for Multidisciplinary Sciences, Göttingen, Germany
+      year: 06.16 - 03.19
+      description:
+        - Prof. Dr. Jens Frahm
+        - Development of dynamic water/fat separation technique
+        - Development of a model-based reconstruction technique for real-time phase-contrast flow MRI
+        - Implementation of automatic scaling of unknowns in model-based reconstruction
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Physics
+      institution: <a href='https://www.uni-goettingen.de/'>University of Goettingen</a>, Goettingen, Germany
+      year: 10.12 - 05.16
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Research conducted at MPINAT, supervised by Prof. Dr. Jens Frahm
+    - title: M.Sc. in Biomedical Engineering
+      institution: <a href='https://www.duke.edu'>Duke University</a>, Durham, NC, USA
+      year: 08.10 - 08.12
+    - title: B.Sc. in Biomedical Engineering
+      institution: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>, Hangzhou, China
+      year: 09.05 - 06.10
 
-- title: Experience
+
+- title: Grants
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: DFG (German Research Foundation) Research Grant
+      year: 12.19 - 12.21
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Project Number <a href='https://gepris.dfg.de/gepris/projekt/427934942'>427934942</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Distinguished Reviewer for Magnetic Resonance in Medicine
+        - ISMRM Reproducible Research Study Group <a href='https://ismrm.github.io/mrpub/'>MR-Pub</a> Competition 2nd Place
+    - year: 2021
       items:
-        - Max Planck Medal
+        - ISMRM Merit Award magna cum laude (top 15 percent of all accepted abstracts)
+    - year: 2019
+      items:
+        - ISMRM Merit Award summa cum laude (top 5 percent of all accepted abstracts)
+        - ISMRM Educational Stipend
+    - year: 2018
+      items:
+        - ISMRM Educational Stipend
+    - year: 2016
+      items:
+        - ISMRM Merit Award summa cum laude (top 5 percent of all accepted abstracts)
+        - ISMRM Educational Stipend
+        - Dr. rer. nat. Dissertation with summa cum laude
 
-- title: Academic Interests
+
+- title: Services
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: ISMRM
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - MR Expert for ISMRM 2023 Newbie Reception
+        - Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session
+    - title: Reviewing
       items:
-        - Description 1.
-        - Description 2.
+        - IEEE Transactions on Medical Imaging
+        - IEEE Transactions on Computational Imaging
+        - Magnetic Resonance in Medicine
+        - NMR in Biomedicine
+        - Journal of Magnetic Resonance Imaging
+        - ISMRM
+        - MICCAI
 
-- title: Other Interests
+
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Languages:</u> Chinese (Mandarin and Cantonese), English, German
+    - <u>Programming:</u> C/C++, CUDA, MATLAB, Anaconda/Python, PyTorch (Deep Learning), Bash, Git, Slurm
+
+
+- title: Training
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - <a href='/assets/certificates/Coursera_Deep_Learning_Specialization.pdf'>Deep Learning Specialization</a> on Coursera by Prof. Dr. Andrew Ng
+    - year: 2018
+      items:
+        - Machine Learning on Coursera by Prof. Dr. Andrew Ng
+    - year: 2013
+      items:
+        - ESMRMB Lecture on Inverse Imaging, Sparse Sampling, and More
