@@ -55,9 +55,9 @@ nav_order: 2
 
   <li>Wang X, <b>Tan Z</b>, Scholand N, Bilgic B, Uecker M. Model-Based Reconstruction for Joint Estimation of T1, T2* & B0 Inhomogeneity Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
-  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="https://cds.ismrm.org/protected/Data22/abstracts/Tan_Zhengguo.pdf">Unbox model-based reconstruction: Examples employing 7T diffusion MRI</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
+  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2023_sedona_45.pdf">Unbox model-based reconstruction: Examples employing 7T diffusion MRI</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2023. (Poster)</li>
 
-  <li><b>Tan Z</b>, Uecker M. <a href="https://cds.ismrm.org/protected/22MPresentations/abstracts/1860.html">Radial Echo-Planar Imaging with Subspace Reconstruction for Brain MRI</a>. ISMRM 2022;31:1860. (Digital poster)</li>
+  <li><b>Tan Z</b>, Uecker M. <a href="/assets/conferences/2022_ismrm_1860.pdf">Radial Echo-Planar Imaging with Subspace Reconstruction for Brain MRI</a>. ISMRM 2022;31:1860. (Digital poster)</li>
 
   <li><b>Tan Z</b>, Uecker M. <a href="/assets/talks/2021_EMIM_poster.pdf">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction </a>. 16th Annual Meeting of the European Society for Molecular Imaging, 2021.</li>
 
