@@ -61,17 +61,17 @@ nav_order: 2
 
   <li><b>Tan Z</b>, Uecker M. <a href="/assets/talks/2021_EMIM_poster.pdf">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction </a>. 16th Annual Meeting of the European Society for Molecular Imaging, 2021.</li>
 
-  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme HCM, Blumenthal M, Uecker M. <a href="https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT)</a>. ISMRM 2021;30:0753. (Combined educational and scientific oral) <b>magna cum laude</b></li>
+  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme HCM, Blumenthal M, Uecker M. <a href="/assets/conferences/2021_ismrm_0753.pdf">Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT)</a>. ISMRM 2021;30:0753. (Combined educational and scientific oral) <b>magna cum laude</b></li>
 
-  <li>Wang X, Rosenzweig S, Blumenthal M, <b>Tan Z</b>, Scholand N, Uecker M. Free-Breathing, motion-resolved myocardial T1 mapping using inversion-recovery radial FLASH and model-based reconstruction. ISMRM 2021;30:3598.</li>
+  <li>Wang X, Rosenzweig S, Blumenthal M, <b>Tan Z</b>, Scholand N, Uecker M. <a href="/assets/conferences/2021_ismrm_3598.pdf">Free-Breathing, motion-resolved myocardial T1 mapping using inversion-recovery radial FLASH and model-based reconstruction</a>. ISMRM 2021;30:3598.</li>
 
-  <li>Luo G, Wang X, Roeloffs V, <b>Tan Z</b>, Uecker M. Joint estimation of coil sensitivities and image content using a deep image prior. ISMRM 2021;30:0280. (Oral)</li>
+  <li>Luo G, Wang X, Roeloffs V, <b>Tan Z</b>, Uecker M. <a href="/assets/conferences/2021_ismrm_0280.pdf">Joint estimation of coil sensitivities and image content using a deep image prior</a>. ISMRM 2021;30:0280. (Oral)</li>
 
-  <li><b>Tan Z</b>, Dechent P, Wang X, Scholand N, Voit D, Frahm J, Uecker M. <a href="https://cds.ismrm.org/protected/20MPresentations/abstracts/1019.html">Dynamic water, fat, R2* and B0 field inhomogeneity quantification using multi-echo multi-spoke radial FLASH</a>. ISMRM 2020;29:1019. (Oral)</li>
+  <li><b>Tan Z</b>, Dechent P, Wang X, Scholand N, Voit D, Frahm J, Uecker M. <a href="/assets/conferences/2020_ismrm_1019.pdf">Dynamic water, fat, R2* and B0 field inhomogeneity quantification using multi-echo multi-spoke radial FLASH</a>. ISMRM 2020;29:1019. (Oral)</li>
 
-  <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="https://cds.ismrm.org/protected/19MPresentations/abstracts/0689.html">Dynamic water/fat separation and field inhomogeneity mapping at a temporal resolution of 40 ms</a>. ISMRM 2019;28:0689. (Power pitch) <b>summa cum laude</b></li>
+  <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="/assets/conferences/2019_ismrm_0689.pdf">Dynamic water/fat separation and field inhomogeneity mapping at a temporal resolution of 40 ms</a>. ISMRM 2019;28:0689. (Power pitch) <b>summa cum laude</b></li>
 
-  <li><b>Tan Z</b>, Kollmeier JM, Joseph AA, Kalentev O, Voit D, Merboldt KD, Hohage T, Frahm J. <a href="http://cds.ismrm.org/protected/18MPresentations/abstracts/4137.html">Model-based reconstruction with automatic scaling for real-time phase-contrast flow MRI with complementary sets of radial spokes</a>. ISMRM 2018;27:4137. (e-Poster)</li>
+  <li><b>Tan Z</b>, Kollmeier JM, Joseph AA, Kalentev O, Voit D, Merboldt KD, Hohage T, Frahm J. <a href="/assets/conferences/2018_ismrm_4137.pdf">Model-based reconstruction with automatic scaling for real-time phase-contrast flow MRI with complementary sets of radial spokes</a>. ISMRM 2018;27:4137. (e-Poster)</li>
 
   <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. Magnetization transfer in brain: Comparison to relaxation and proton density. ESMRMB 2017;34:344. (Power pitch)</li>
 
@@ -79,11 +79,11 @@ nav_order: 2
 
   <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH. ESMRMB 2017;34:180. (Oral)</li>
 
-  <li><b>Tan Z</b>, et al. <a href="https://cds.ismrm.org/protected/16MPresentations/abstracts/0096.html">Model-based reconstruction for real-time phase-contrast flow MRI - Improved spatiotemporal accuracy</a>. ISMRM 2016;24:0098. (Power pitch) <b>summa cum laude</b></li>
+  <li><b>Tan Z</b>, et al. <a href="/assets/conferences/2016_ismrm_0096.pdf">Model-based reconstruction for real-time phase-contrast flow MRI - Improved spatiotemporal accuracy</a>. ISMRM 2016;24:0096. (Power pitch) <b>summa cum laude</b></li>
 
-  <li>Hilbert T, Kober T, Sumpf TJ, <b>Tan Z</b>, Frahm J, Falkovskiy P, Meyer H, Bendl R, Thiran JP, Meuli R, Krueger G. MARTINI and GRAPPA - When speed is taste. ISMRM 2014;22:4077. (Poster)</li>
+  <li>Hilbert T, Kober T, Sumpf TJ, <b>Tan Z</b>, Frahm J, Falkovskiy P, Meyer H, Bendl R, Thiran JP, Meuli R, Krueger G. <a href="/assets/conferences/2014_ismrm_1504.pdf">MARTINI and GRAPPA - When speed is taste</a>. ISMRM 2014;22:4077. (Poster)</li>
 
-  <li><b>Tan Z</b>, Chen NK. <a href="http://cds.ismrm.org/protected/12MProceedings/files/2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
+  <li><b>Tan Z</b>, Chen NK. <a href="/assets/conferences/2012_ismrm_2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
 </ol>
 
 <h2>PhD Thesis</h2>
