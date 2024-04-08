@@ -25,5 +25,3 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p> -->
 ---
-
-<a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a>
