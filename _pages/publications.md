@@ -11,37 +11,37 @@ nav_order: 2
 
 <ol reversed>
 
-  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <i>Under Review</i> 2024.</li>
+  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em> 2024.</li>
 
-  <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods. <i>Under Review</i> 2024.</li>
+  <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods. <em>Under Review</em> 2024.</li>
 
-  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. <i>Imaging Neuroscience</i> 2024.</li>
+  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. <em>Imaging Neuroscience</em> 2024.</li>
 
-  <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. <i>IEEE Transactions on Medical Imaging</i> 2023;42:1374-1387.</li>
+  <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. <em>IEEE Transactions on Medical Imaging</em> 2023;42:1374-1387.</li>
 
-  <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.29521">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. <i>Magnetic Resonance in Medicine</i> 2023;89:1368-1384.</li>
+  <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.29521">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2023;89:1368-1384.</li>
 
-  <li>Wang X, <b>Tan Z</b>, Scholand N, Roeloffs V, Uecker M. <a href="https://doi.org/10.1098/rsta.2020.0196">Physics-based reconstruction methods for magnetic resonance imaging</a>. <i>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</i> 2021;379:20200196.</li>
+  <li>Wang X, <b>Tan Z</b>, Scholand N, Roeloffs V, Uecker M. <a href="https://doi.org/10.1098/rsta.2020.0196">Physics-based reconstruction methods for magnetic resonance imaging</a>. <em>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</em> 2021;379:20200196.</li>
 
-  <li>Kollmeier JM, <b>Tan Z</b>, Joseph AA, Kalentev O, Voit D, Merboldt KD, Frahm J. <a href="https://doi.org/10.1002/nbm.4184">Real-time multi-directional flow MRI using model-based reconstructions of undersampled radial FLASH -- A feasibility study</a>. <i>NMR in Biomedicine</i> 2019;32:e4184.</li>
+  <li>Kollmeier JM, <b>Tan Z</b>, Joseph AA, Kalentev O, Voit D, Merboldt KD, Frahm J. <a href="https://doi.org/10.1002/nbm.4184">Real-time multi-directional flow MRI using model-based reconstructions of undersampled radial FLASH -- A feasibility study</a>. <em>NMR in Biomedicine</em> 2019;32:e4184.</li>
 
-  <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.27795">Dynamic water/fat separation and B0 inhomogeneity mapping - Joint estimation using triple-echo multi-spoke radial FLASH</a>. <i>Magnetic Resonance in Medicine</i> 2019;82:1000-1011.</li>
+  <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.27795">Dynamic water/fat separation and B0 inhomogeneity mapping - Joint estimation using triple-echo multi-spoke radial FLASH</a>. <em>Magnetic Resonance in Medicine</em> 2019;82:1000-1011.</li>
 
-  <li>Watanabe T, <b>Tan Z</b>, Wang X, Martinez-Hernandez A, Frahm J. <a href="https://doi.org/10.1007/s00429-019-01858-0">Magnetic resonance imaging of noradrenergic neurons</a>. <i>Brain Structure and Function</i> 2019;224:1609-1625.</li>
+  <li>Watanabe T, <b>Tan Z</b>, Wang X, Martinez-Hernandez A, Frahm J. <a href="https://doi.org/10.1007/s00429-019-01858-0">Magnetic resonance imaging of noradrenergic neurons</a>. <em>Brain Structure and Function</em> 2019;224:1609-1625.</li>
 
-  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. <a href="https://www.nature.com/articles/s41598-019-41587-2">Magnetic resonance imaging of brain cell water</a>. <i>Scientific Reports</i> 2019;9:1-14.</li>
+  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. <a href="https://www.nature.com/articles/s41598-019-41587-2">Magnetic resonance imaging of brain cell water</a>. <em>Scientific Reports</em> 2019;9:1-14.</li>
 
-  <li>Merrem A, Hofer S, Hosseini ASA, Voit D, Merboldt KD, <b>Tan Z</b>, Frahm J. <a href="https://doi.org/10.1002/nbm.4074">Diffusion-weighted MRI of the prostate without susceptibility artifacts: Undersampled multi-shot turbo-STEAM with rotated radial trajectories</a>. <i>NMR in Biomedicine</i> 2019;32:e4074.</li>
+  <li>Merrem A, Hofer S, Hosseini ASA, Voit D, Merboldt KD, <b>Tan Z</b>, Frahm J. <a href="https://doi.org/10.1002/nbm.4074">Diffusion-weighted MRI of the prostate without susceptibility artifacts: Undersampled multi-shot turbo-STEAM with rotated radial trajectories</a>. <em>NMR in Biomedicine</em> 2019;32:e4074.</li>
 
-  <li>Maier IL, Hofer S, Joseph AA, Merboldt KD, <b>Tan Z</b>, Schregel K, Knauth M, Bähr M, Psychogios M, Liman J, Frahm J. <a href="https://doi.org/10.1016/j.ejrad.2018.07.011">Carotid artery flow as determined by real-time phase-contrast flow MRI and neurovascular ultrasound: A comparative study of healthy subjects</a>. <i>European Journal of Radiology</i> 2018;106:38-45.</li>
+  <li>Maier IL, Hofer S, Joseph AA, Merboldt KD, <b>Tan Z</b>, Schregel K, Knauth M, Bähr M, Psychogios M, Liman J, Frahm J. <a href="https://doi.org/10.1016/j.ejrad.2018.07.011">Carotid artery flow as determined by real-time phase-contrast flow MRI and neurovascular ultrasound: A comparative study of healthy subjects</a>. <em>European Journal of Radiology</em> 2018;106:38-45.</li>
 
-  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. <a href="https://doi.org/10.1002/mrm.26726">Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH</a>. <i>Magnetic Resonance in Medicine</i> 2018;79:730-740.</li>
+  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. <a href="https://doi.org/10.1002/mrm.26726">Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH</a>. <em>Magnetic Resonance in Medicine</em> 2018;79:730-740.</li>
 
-  <li><b>Tan Z</b>, Hohage T, Kalentev O, Joseph AA, Wang X, Voit D, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/nbm.3835">An eigenvalue approach for the automatic scaling of unknowns in model-based reconstructions: application to real-time phase-contrast flow MRI</a>. <i>NMR in Biomedicine</i> 2017;30:e3835.</li>
+  <li><b>Tan Z</b>, Hohage T, Kalentev O, Joseph AA, Wang X, Voit D, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/nbm.3835">An eigenvalue approach for the automatic scaling of unknowns in model-based reconstructions: application to real-time phase-contrast flow MRI</a>. <em>NMR in Biomedicine</em> 2017;30:e3835.</li>
 
-  <li><b>Tan Z</b>, Roeloffs V, Voit D, Joseph AA, Untenberger M, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.26192">Model-based reconstruction for real-time phase-contrast flow MRI: improved spatiotemporal accuracy</a>. <i>Magnetic Resonance in Medicine</i> 2017;77:1082-1093.</li>
+  <li><b>Tan Z</b>, Roeloffs V, Voit D, Joseph AA, Untenberger M, Merboldt KD, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.26192">Model-based reconstruction for real-time phase-contrast flow MRI: improved spatiotemporal accuracy</a>. <em>Magnetic Resonance in Medicine</em> 2017;77:1082-1093.</li>
 
-  <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. <i>Magnetic Resonance in Medicine</i> 2016;75:1901-1908. (# Equal Contribution)</li>
+  <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. <em>Magnetic Resonance in Medicine</em> 2016;75:1901-1908. (# Equal Contribution)</li>
 </ol>
 
 <h2>Peer-Reviewed Conferences Publication</h2>
