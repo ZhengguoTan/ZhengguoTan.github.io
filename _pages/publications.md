@@ -98,5 +98,4 @@ nav_order: 2
   <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
 </ol>
 
-
 <a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a>
