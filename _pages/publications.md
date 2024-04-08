@@ -15,7 +15,7 @@ nav_order: 2
 
   <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods. <em>Under Review</em> 2024.</li>
 
-  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. <em>Imaging Neuroscience</em> 2024.</li>
+  <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. <em>Imaging Neuroscience</em> 2024;2:1-15.</li>
 
   <li><b>Tan Z</b>, Unterberg-Buchwald C, Blumenthal M, Scholand N, Schaten P, Holme HCM, Wang X, Raddatz D, Uecker M. <a href="https://doi.org/10.1109/TMI.2022.3228075">Free-breathing liver fat, R2*, and B0 field mapping using multi-echo radial FLASH and regularized model-based reconstruction</a>. <em>IEEE Transactions on Medical Imaging</em> 2023;42:1374-1387.</li>
 
