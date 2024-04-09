@@ -5,6 +5,8 @@ title: research
 description:
 nav: true
 nav_order: 3
+toc:
+  sidebar: left
 ---
 
 ## 1. Real-Time MRI / Fast MRI (Cardiovascular)
