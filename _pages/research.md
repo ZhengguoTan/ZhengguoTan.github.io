@@ -9,9 +9,9 @@ toc:
   sidebar: left
 ---
 
-## 1. Real-Time MRI / Fast MRI (Cardiovascular)
+# 1. Real-Time MRI / Fast MRI (Cardiovascular)
 
-#### Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
+### Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
 
     {% include figure.liquid loading="eager" path="/assets/research/seq_asym-echo.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -19,7 +19,7 @@ toc:
 
 - Overlapping of flow gradients with pre-dephasing and/or slice-rewinder gradients further reduces TE.
 
-#### Aortic Blood Flow Quantification
+### Aortic Blood Flow Quantification
 
     {% include figure.liquid loading="eager" path="/assets/research/recon_flow.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -27,7 +27,7 @@ toc:
 
 - With proper regularization on the phase-difference map, the model-based reconstruction largely removes random phase noise in the background, which appears from the conventional phase difference calculation between two images.
 
-## 2. Multi-Echo Radial Sampling
+# 2. Multi-Echo Radial Sampling
 
     {% include figure.liquid loading="eager" path="assets/research/seq_multi-echo_stack-of-radial.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -43,7 +43,7 @@ toc:
   </div>
 </div>
 
-#### Application #1: Liver Fat, R2\* and B0 Field Mapping
+## Application #1: Liver Fat, R2\* and B0 Field Mapping
 
     {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_liver.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
@@ -53,11 +53,11 @@ toc:
 
 - Respiratory motion is resolved with the [SSA-FARY](https://ieeexplore.ieee.org/document/9057630) self-gating technique.
 
-#### Application #2: T2\*-weighted imaging (Brain)
+## Application #2: T2\*-weighted imaging (Brain)
 
     {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_brain.gif" title="example image" class="img-fluid rounded z-depth-1" %}
 
-## 3. Brain Diffusion MRI at 7T (Neuro)
+# 3. Brain Diffusion MRI at 7T (Neuro)
 
     {% include figure.liquid loading="eager" path="assets/research/seq_naviepi.png" class="img-fluid rounded z-depth-1" %}
 
