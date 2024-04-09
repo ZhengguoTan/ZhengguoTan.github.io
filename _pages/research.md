@@ -13,7 +13,7 @@ toc:
 
 ### Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
 
-    {% include figure.liquid loading="eager" path="/assets/research/seq_asym-echo.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="/assets/research/seq_asym-echo.png" title="asymmetric-echo radial sequence" class="img-fluid rounded z-depth-1" %}
 
 - Asymmetric-echo readout shortens echo time and is beneficial when combined with flow-compensation and -encoding gradients.
 
@@ -21,7 +21,7 @@ toc:
 
 ### Aortic Blood Flow Quantification
 
-    {% include figure.liquid loading="eager" path="/assets/research/recon_flow.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="/assets/research/recon_flow.png" title="model-based flow reconstruction" class="img-fluid rounded z-depth-1" %}
 
 - The model-based reconstruction directly and jointly estimates the magnitude and the phase-difference image from acquired _k_-space data.
 
@@ -29,7 +29,7 @@ toc:
 
 # 2. Multi-Echo Radial Sampling
 
-    {% include figure.liquid loading="eager" path="assets/research/seq_multi-echo_stack-of-radial.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/research/seq_multi-echo_stack-of-radial.png" title="multi-echo radial sequence" class="img-fluid rounded z-depth-1" %}
 
 - In analogy with the famous echo-planar imaging (EPI), multi-echo radial samples multiple echoes at different k-space radial spokes per radio frequency (RF) excitation.
 
@@ -39,13 +39,13 @@ toc:
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="/assets/research/NIST_cor_loop.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="/assets/research/NIST_cor_loop.gif" title="NIST" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 ## Application #1: Liver Fat, R2\* and B0 Field Mapping
 
-    {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_liver.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_liver.png" title="multi-echo liver" class="img-fluid rounded z-depth-1" %}
 
 - Joint estimation based on [iteratively regularized Gauß-Newton method (IRGNM)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.21691) and [alternating direction method of multipliers (ADMM)](https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) to allow for generalized regularization.
 
@@ -55,14 +55,24 @@ toc:
 
 ## Application #2: T2\*-weighted imaging (Brain)
 
-    {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_brain.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_brain.gif" title="multi-echo brain" class="img-fluid rounded z-depth-1" %}
 
 # 3. Brain Diffusion MRI at 7T (Neuro)
 
-    {% include figure.liquid loading="eager" path="assets/research/seq_naviepi.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/research/seq_naviepi.png" title="NAViEPI sequence" class="img-fluid rounded z-depth-1" %}
 
-- [NAViEPI](https://github.com/ZhengguoTan/NAViEPI): _where interleaved EPI meets readout-segmented EPI_
+- [NAViEPI](https://github.com/ZhengguoTan/NAViEPI) with consistent ESP between imaging and navigator echoes: _where interleaved EPI meets readout-segmented EPI_
+
+- NAViEPI enables:
+
+  - minimal distortion mismatch between echoes;
+  - flexible number of shots for sub-millimeter mesoscale resolution;
+  - reliable shot-to-shot phase estimation from navigators.
+
+    {% include figure.liquid loading="eager" path="assets/research/diff_fwd.png" title="Forward modeling of multi-shot multi-band EPI" class="img-fluid rounded z-depth-1" %}
 
 - Generalized joint k-q-slice reconstruction
+
+  {% include figure.liquid loading="eager" path="assets/research/recon_diff_brain.png" title="NAViEPI brain" class="img-fluid rounded z-depth-1" %}
 
 - Data: hosted on [Zenodo](https://zenodo.org/records/10474402)
