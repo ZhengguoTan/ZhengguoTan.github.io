@@ -6,7 +6,7 @@ subtitle: Faculty at <a href='https://umich.edu/'>University of Michigan</a> in 
 
 profile:
   align: right
-  image: 2023_ztan.jpg
+  image: 2024_ztan.jpg
   image_circular: false # crops the image to make it circular
   <!-- more_info: >
     <p>555 your office number</p>
