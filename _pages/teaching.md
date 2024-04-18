@@ -53,14 +53,14 @@ nav_order: 6
   - Kai Zhao
 
 - Winter Semester 2023/2024 @ FAU
-  - Jinying Chen
-  - Abdallah Eid
-  - Xinyi Hunag
-  - Jiayi Jia
-  - Yen-Ju Lu
-  - Yutong Luo
-  - Dhruv Sharma
-  - Xie Xu
+  - Jinying Chen, [report](/assets/teaching/cip/2023ws_chen_jinying.pdf)
+  - Abdallah Eid, [report](/assets/teaching/cip/2023ws_eid_abdallah.pdf)
+  - Xinyi Huang, [report](/assets/teaching/cip/2023ws_huang_xinyi.pdf)
+  - Jiayi Jia, [report](/assets/teaching/cip/2023ws_jia_jiayi.pdf)
+  - Yen-Ju Lu, [report](/assets/teaching/cip/2023ws_lu_yenju.pdf)
+  - Yutong Luo, [report](/assets/teaching/cip/2023ws_luo_yutong.pdf)
+  - Dhruv Sharma, [report](/assets/teaching/cip/2023ws_sharma_dhruv.pdf)
+  - Xie Xu, [report](/assets/teaching/cip/2023ws_xie_xu.pdf)
 
 ## Courses
 
