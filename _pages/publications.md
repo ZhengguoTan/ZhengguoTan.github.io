@@ -47,6 +47,8 @@ nav_order: 2
 <h2>Peer-Reviewed Conferences Publication</h2>
 
 <ol reversed>
+  <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_3239.pdf">Accelerated Diffusion-Weighted MRI at 7T: Joint Reconstruction for Shift-Encoded Navigated Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. ISMRM 2024;32:3239. (<a href="/assets/conferences/2024_ismrm_3239_poster.pdf">Poster</a>)</li>
+
   <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. On the use of autoencoder to denoise diffusion MRI. ESMRMB 2023. (Oral)</li>
 
   <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2023_ismrm_3961.pdf">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
