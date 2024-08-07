@@ -1,6 +1,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Faculty
+      institution: Michigan Institute for Imaging Technology and Translation, Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA
+      year: 07.24 - current
+
     - title: Postdoctoral Scientist
       institution: Department of Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-University of Erlangen-Nuremberg (FAU), Erlangen, Germany
       year: 01.22 - 06.24
@@ -83,6 +87,7 @@
         - Poster Facilitator for ISMRM 2021 Pulse Sequence Poster Session
     - title: Reviewing
       items:
+        - Medical Image Analysis
         - IEEE Transactions on Medical Imaging
         - IEEE Transactions on Computational Imaging
         - Magnetic Resonance in Medicine
