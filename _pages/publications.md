@@ -101,6 +101,8 @@ nav_order: 2
 <h2>arXiv Publication</h2>
 
 <ol reversed>
+  <li><b>Tan Z</b>, Dai E, Uecker M. <a href="https://github.com/ZhengguoTan/publ_meco_brain_t2star.git">Stack-of-radial echo planar imaging with locally low rank regularized subspace reconstruction for fast high-resolution brain MRI</a>. github 2021.</li>
+
   <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
 </ol>
 
