@@ -11,9 +11,9 @@ nav_order: 2
 
 <ol reversed>
 
-  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em> 2024.</li>
+  <li>Solomon E, Johnson P, <b>Tan Z</b>, Tibrewala R, Lui YW, Knoll F, Moy L, Kim SG, Heacock L. <a href="https://doi.org/10.1148/ryai.240345">FastMRI Breast: A Publicly Available Radial K-space Dataset of Breast Dynamic Contrast-enhanced MRI</a>. <em>Radiology: Artificial Intelligence</em> 2025.</li>
 
-  <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. <a href="https://doi.org/10.1002/mrm.30152">Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods</a>. <em>Magnetic Resonance in Medicine</em> 2024.</li>
+  <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. <a href="https://doi.org/10.1002/mrm.30152">Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods</a>. <em>Magnetic Resonance in Medicine</em> 2024;92:1728-1742.</li>
 
   <li><b>Tan Z</b>, Liebig PA, Heidemann RM, Laun FB, Knoll F. <a href="https://doi.org/10.1162/imag_a_00085">Accelerated Diffusion Weighted Magnetic Resonance Imaging at 7T: Joint Reconstruction for Shift-Encoded Navigator-based Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. <em>Imaging Neuroscience</em> 2024;2:1-15.</li>
 
