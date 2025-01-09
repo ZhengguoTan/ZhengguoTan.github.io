@@ -47,11 +47,13 @@ nav_order: 2
 <h2>Peer-Reviewed Conferences Publication</h2>
 
 <ol reversed>
+  <li>Glaser J, <b>Tan Z</b>, Hofmann A, Laun FB, Knoll F. <a href="/assets/conferences/2025_ismrm_workshop_40diff_vae.pdf">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder: Latent space decoded reconstruction (LASER)</a>. ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives 2025. (Power Pitch)</li>
+
   <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_3239.pdf">Accelerated Diffusion-Weighted MRI at 7T: Joint Reconstruction for Shift-Encoded Navigated Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. ISMRM 2024;33:3239. (<a href="/assets/conferences/2024_ismrm_3239_poster.pdf">e-Poster</a>)</li>
 
   <li>Solomon E, Johnson PM, <b>Tan Z</b>, Knoll F, Moy L, Kim SG, Heacock L. <a href="/assets/conferences/2024_ismrm_2777.pdf">fastMRI Breast: A publicly available radial k-space dataset of breast dynamic contrast-enhanced MRI</a>. ISMRM 2024;33:2777. (e-Poster)</li>
 
-  <li>Hofmann A, <b>Tan Z</b>, Liebig P, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_2422.pdf">Whole-Brain Mesoscale 0.7 millimeter-Isotropic-Resolution Diffusion MRI at Ultra-High Fields: The JETS-NAViEPI Approach</a>. ISMRM 2024;33:2422. (e-Poster)
+  <li>Hofmann A, <b>Tan Z</b>, Liebig P, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_2422.pdf">Whole-Brain Mesoscale 0.7 millimeter-Isotropic-Resolution Diffusion MRI at Ultra-High Fields: The JETS-NAViEPI Approach</a>. ISMRM 2024;33:2422. (e-Poster)</li>
 
   <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. On the use of autoencoder to denoise diffusion MRI. ESMRMB 2023. (Oral)</li>
 
