@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- 2025.05, **Self-gated self-supervised ADMM unrolling enables mesoscale high-resolution motion-robust diffusion-weighted imaging** in the [International Society for Magnetic Resonance in Medicine (ISMRM) Annual Conference](https://www.ismrm.org/25m/), Hawai'i, USA. [slides](/assets/talks/2025_ISMRM_0743.pdf), [video](/assets/talks/2025_ISMRM_0743_self-admm_mdwi.avi)
+
 - 2023.06, **MRI: Speed, Phase, Echo** at [Michigan Institute for Imaging Technology and Translation (MIITT)](https://miitt.med.umich.edu/), Department of Radiology, University of Michigan in Ann Arbor. [slides](/assets/talks/2023_umich_miitt.pdf)
 
 - 2023.06, **Interactive Open-Source Code Demo at MR-Pub III Competition**, organized by [Reproducible Research Study Group](https://ismrm.github.io/rrsg/) at ISMRM 2023, Toronto, CAN. [codes](https://github.com/ZhengguoTan/NAViEPI), [slides](/assets/talks/2023_MR-Pub_JETS.pptx)
