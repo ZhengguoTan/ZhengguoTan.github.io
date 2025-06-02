@@ -11,7 +11,15 @@ nav_order: 2
 
 <ol reversed>
 
-  <li>Solomon E, Johnson P, <b>Tan Z</b>, Tibrewala R, Lui YW, Knoll F, Moy L, Kim SG, Heacock L. <a href="https://doi.org/10.1148/ryai.240345">FastMRI Breast: A Publicly Available Radial K-space Dataset of Breast Dynamic Contrast-enhanced MRI</a>. <em>Radiology: Artificial Intelligence</em> 2025.</li>
+  <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Under Review</em>. (# Equal Contribution)</li>
+
+  <li><b>Tan Z</b>, Liebig P, Hofmann A, Laun FB, Knoll F. <a href="">High-resolution motion-robust diffusion-weighted imaging with self-gated self-supervised ADMM unrolling</a>. <em>Under Review</em>.</li>
+
+  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em>.</li>
+
+  <li>Wang X, Fan H, <b>Tan Z</b>, Vasylechko S, Yang E, Didier R, Afacan O, Uecker M, Warfield SK, Gholipour A. <a href="">Rapid, High-resolution and Distortion-free R2* Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2025.</li>
+
+  <li>Solomon E, Johnson P, <b>Tan Z</b>, Tibrewala R, Lui YW, Knoll F, Moy L, Kim SG, Heacock L. <a href="https://doi.org/10.1148/ryai.240345">FastMRI Breast: A Publicly Available Radial K-space Dataset of Breast Dynamic Contrast-enhanced MRI</a>. <em>Radiology: Artificial Intelligence</em> 2025;7:e240345.</li>
 
   <li>Bae J, <b>Tan Z</b>, Solomon E, Huang Z, Heacock L, Moy L, Knoll F, Kim SG. <a href="https://doi.org/10.1002/mrm.30152">Digital Reference Object (DRO) Toolkit of Breast Dynamic Contrast-Enhanced (DCE)-MRI for Quantitative Evaluation of Image Reconstruction and Analysis Methods</a>. <em>Magnetic Resonance in Medicine</em> 2024;92:1728-1742.</li>
 
@@ -47,6 +55,12 @@ nav_order: 2
 <h2>Peer-Reviewed Conferences Publication</h2>
 
 <ol reversed>
+  <li><b>Tan Z</b>, Liebig P, Hofmann A, Jaroszewicz M, Jiang Y, Gulani V, Laun FB, Knoll F. <a href="">Self-gated self-supervised ADMM unrolling enables mesoscale high-resolution motion-robust diffusion-weighted imaging</a>. ISMRM 2025;34:0182. (Oral)</li>
+  <li>Brenes A, <b>Tan Z</b>, Bae J, Goesche E, Knoll F, Kim SG. <a href="">Direct reconstruction of tracer kinetic parameter maps in abbreviated breast MRI</a>. ISMRM 2025;34:xxxx. (Oral)</li>
+  <li>Goesche E, <b>Tan Z</b>, Flasskamp K, Kim SG, Knoll F. <a href="">Comparative evaluation of deep learning and compressed sensing methods for dynamic contrast-enhanced MRI reconstruction</a>. ISMRM 2025;34:xxxx. (Digital poster)</li>
+  <li>Telezki V, Mackner D, Scholand N, <b>Tan Z</b>, Blumenthal M, Schaten P, Wang X, Uecker M. <a href="">Model-based reconstruction for joint estimation of multiple quantitative maps in the liver using single-shot IR multi-echo radial FLASH</a>. ISMRM 2025;34:xxxx. (Digital poster)</li>
+  <li>Hofmann A, <b>Tan Z</b>, Liebig P, Laun FB, Knoll F. <a href="">Ultra-ghi-field diffusion-weighted MRI reconstruction with spatial-angular low-rank regularization for rigid motion correction</a>. The International Biomedical and Astronomical Signal Processing Frontiers Conference 2025:xxxx. ()</li>
+
   <li>Glaser J, <b>Tan Z</b>, Hofmann A, Laun FB, Knoll F. <a href="/assets/conferences/2025_ismrm_workshop_40diff_vae.pdf">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder: Latent space decoded reconstruction (LASER)</a>. ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives 2025. (Power Pitch)</li>
 
   <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_3239.pdf">Accelerated Diffusion-Weighted MRI at 7T: Joint Reconstruction for Shift-Encoded Navigated Interleaved Echo Planar Imaging (JETS-NAViEPI)</a>. ISMRM 2024;33:3239. (<a href="/assets/conferences/2024_ismrm_3239_poster.pdf">e-Poster</a>)</li>
