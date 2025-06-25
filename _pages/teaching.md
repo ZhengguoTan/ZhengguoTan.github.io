@@ -23,12 +23,12 @@ nav_order: 6
     <tr>
         <td>Mr. Julius Glaser</td>
         <td>2023 - 2024</td>
-        <td>tba</td>
+        <td>Variational AutoEncoder</td>
     </tr>
     <tr>
         <td>Mr. Yen-Ju Lu</td>
         <td>2024 - 2025</td>
-        <td>tba</td>
+        <td>FIRE Recon</td>
     </tr>
 </table>
 
