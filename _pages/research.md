@@ -35,7 +35,7 @@ toc:
 
 - It can be applied to water/fat separation, functional MRI, quantitative T2\* mapping, and even diffusion/susceptibility imaging (under development).
 
-- Multi-echo radial sampling has been integrated with [stack-of-stars](http://www.koreascience.or.kr/article/JAKO201430754387343.page) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging. See below for an example of the stack-of-stars acquisition on the NIST phantom and NUFFT reconstruction:
+- Multi-echo radial sampling has been integrated with [stack-of-stars](https://doi.org/10.13104/jksmrm.2014.18.2.87) as well as symmetric echo acquisition for volumetric and multi-dimensional imaging. See below for an example of the stack-of-stars acquisition on the NIST phantom and NUFFT reconstruction:
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
