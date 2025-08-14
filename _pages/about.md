@@ -26,7 +26,7 @@ in the Michigan Institute for Imaging Technology and Translation
 Department of Radiology, University of Michigan (<a href='https://umich.edu/'>UMICH</a>)
 in Ann Arbor, USA.
 
-I was a postdoctoral scientist
+Before joining MIITT, I was a postdoctoral scientist
 supervised by <a href='https://www.cil.tf.fau.de/person/knoll/'>Prof. Dr. Florian Knoll</a>
 at the Friedrich-Alexander University of Erlangen-Nuremberg (<a href='https://www.fau.de/'>FAU</a>).
 I enjoyed the time with Prof. Knoll
@@ -34,9 +34,17 @@ building efficient deep learning reconstruction methods
 for magnetic resonance imaging (MRI).
 Meanwhile, I was a lecturer on the core master study module
 "Computational Imaging Project", mentoring about 8 master students per semester.
-Before that, I was a postdoctoral project leader sponsored by the German Research Foundation (<a href='https://www.dfg.de/en'>DFG</a>)
+Prior to Erlangen, I was a postdoctoral project leader
+sponsored by the German Research Foundation (<a href='https://www.dfg.de/en'>DFG</a>)
 at the University Medical Center Goettingen (<a href='https://www.umg.eu/'>UMG</a>) and
-adjunct at Max Planck Institute for Multidisciplinary Sciences (<a href='https://www.mpinat.mpg.de/en'>MPINAT</a>). I worked with <a href='https://www.tugraz.at/institute/ibi/home'>Prof. Dr. Martin Uecker</a> and <a href='https://de.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a> developing advanced pulse sequences and iterative reconstruction methods for fast MRI.
+adjunct at Max Planck Institute for Multidisciplinary Sciences
+(<a href='https://www.mpinat.mpg.de/en'>MPINAT</a>).
+I worked with <a href='https://www.tugraz.at/institute/ibi/home'>Prof. Dr. Martin Uecker</a> and
+<a href='https://de.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a>
+developing advanced pulse sequences and iterative reconstruction methods for fast MRI.
+I obtained my PhD degree from MPINAT with summa cum laude, under the guidance of Prof. Frahm,
+focusing on the development of asymmetric-echo radial and multi-echo radial sampling sequences,
+and model-based reconstructions for real-time phase-contrast flow MRI and dynamic multi-echo MRI.
 
 I'm interested in MRI physics and optimization methods.
 I've acquired vast hands-on experience in developing efficient data sampling schemes
