@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- 2025.10, guest lecture **Compressed Sensing and Low-Rank Models** in the BME599 course "Advanced Topics in MRI", University of Michigan, Ann Arbor. [slides & codes](https://github.com/ZhengguoTan/teach_umich_bme599_advanced-topics-mri)
+
 - 2025.05, **Self-gated self-supervised ADMM unrolling enables mesoscale high-resolution motion-robust diffusion-weighted imaging** in the [International Society for Magnetic Resonance in Medicine (ISMRM) Annual Conference](https://www.ismrm.org/25m/), Hawai'i, USA. [slides](/assets/talks/2025_ISMRM_0743.pdf), [video](/assets/talks/2025_ISMRM_0743_self-admm_mdwi.avi)
 
 - 2023.06, **MRI: Speed, Phase, Echo** at [Michigan Institute for Imaging Technology and Translation (MIITT)](https://miitt.med.umich.edu/), Department of Radiology, University of Michigan in Ann Arbor. [slides](/assets/talks/2023_umich_miitt.pdf)
