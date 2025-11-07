@@ -64,6 +64,8 @@ nav_order: 6
 
 ## Courses
 
+- 2025, Guest Lecture "Compressed Sensing and Low-Rank Models" for the Course "Advanced Topics in MRI", BME599, University of Michigan
+
 - 2023 - 2024, Magnetic Resonance Imaging sequence programming [MRIpulseq](https://github.com/mzaiss/MRTwin_pulseq) @ FAU
 
   Together with Prof. Dr. Moritz Zaiss
