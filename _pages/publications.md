@@ -15,9 +15,9 @@ nav_order: 2
 
   <li><b>Tan Z</b>, Liebig P, Hofmann A, Laun FB, Knoll F. <a href="">High-resolution motion-robust diffusion-weighted imaging with self-gated self-supervised ADMM unrolling</a>. <em>Under Review</em>.</li>
 
-  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em>.</li>
+  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schaten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em>.</li>
 
-  <li>Wang X, Fan H, <b>Tan Z</b>, Vasylechko S, Yang E, Didier R, Afacan O, Uecker M, Warfield SK, Gholipour A. <a href="https://doi.org/10.1002/mrm.30604">Rapid, High-resolution and Distortion-free R2* Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2025.</li>
+  <li>Wang X, Fan H, <b>Tan Z</b>, Vasylechko S, Yang E, Didier R, Afacan O, Uecker M, Warfield SK, Gholipour A. <a href="https://doi.org/10.1002/mrm.30604">Rapid, High-resolution and Distortion-free R2* Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2025;94:1913-1929.</li>
 
   <li>Solomon E, Johnson P, <b>Tan Z</b>, Tibrewala R, Lui YW, Knoll F, Moy L, Kim SG, Heacock L. <a href="https://doi.org/10.1148/ryai.240345">FastMRI Breast: A Publicly Available Radial K-space Dataset of Breast Dynamic Contrast-enhanced MRI</a>. <em>Radiology: Artificial Intelligence</em> 2025;7:e240345.</li>
 
