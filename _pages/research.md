@@ -57,11 +57,18 @@ toc:
 
     {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_brain.gif" title="multi-echo brain" class="img-fluid rounded z-depth-1" %}
 
-# 3. Brain Diffusion MRI at 7T (Neuro)
+# 3. Diffusion MRI
 
-    {% include figure.liquid loading="eager" path="assets/research/seq_naviepi.png" title="NAViEPI sequence" class="img-fluid rounded z-depth-1" %}
+## NAViEPI
 
-- [NAViEPI](https://github.com/ZhengguoTan/NAViEPI) with consistent ESP between imaging and navigator echoes: _where interleaved EPI meets readout-segmented EPI_
+[NAViEPI](https://github.com/ZhengguoTan/NAViEPI) with consistent ESP between imaging and navigator echoes: _where interleaved EPI meets readout-segmented EPI_
+
+{% include figure.liquid loading="eager" path="assets/research/seq_naviepi.png" title="NAViEPI sequence" class="img-fluid rounded z-depth-1" %}
+
+- NAViEPI features:
+
+  - accelerated multi-shot EPI;
+  - shifted encoding among diffusion-encoding directions.
 
 - NAViEPI enables:
 
@@ -69,10 +76,20 @@ toc:
   - flexible number of shots for sub-millimeter mesoscale resolution;
   - reliable shot-to-shot phase estimation from navigators.
 
-    {% include figure.liquid loading="eager" path="assets/research/diff_fwd.png" title="Forward modeling of multi-shot multi-band EPI" class="img-fluid rounded z-depth-1" %}
+Generalized joint k-q-slice reconstruction
 
-- Generalized joint k-q-slice reconstruction
+{% include figure.liquid loading="eager" path="assets/research/diff_fwd.png" title="Forward modeling of multi-shot multi-band EPI" class="img-fluid rounded z-depth-1" %}
+
+Example: 7T Brain Diffusion MRI
 
   {% include figure.liquid loading="eager" path="assets/research/recon_diff_brain.png" title="NAViEPI brain" class="img-fluid rounded z-depth-1" %}
 
 - Data: hosted on [Zenodo](https://zenodo.org/records/10474402)
+
+## Self-Supervised ADMM Unrolling Reconstruction
+
+[ADMM Unrolling](https://github.com/ZhengguoTan/DeepDWI) enables submillimeter DWI based on multi-band multi-shot interleaved EPI acquisition.
+
+Example: 0.7 mm isotropic resolution DWI with the proposed self-gated ADMM unrolling enables the visualization of the tiny structure claustrum
+
+    {% include figure.liquid loading="eager" path="assets/research/deepdwi_claustrum.png" title="claustrum" class="img-fluid rounded z-depth-1" %}
