@@ -84,6 +84,6 @@ nav_order: 6
 
 - Lecturer for ISMRM 2022 Weekend Educational Course
 
-- Lecturer for ISMRM 2021 Software Session on BART
+- Lecturer for ISMRM 2021 Software Session on BART: [multi-echo model-based reconstruction](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb)
 
-- Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1
+- Lecturer for [Berkeley Advanced Reconstruction Toolbox (BART)](https://github.com/mrirecon/bart) Webinar #1: [command line parameters](https://github.com/mrirecon/bart-webinars/blob/master/webinar1/day2_add_cmdline_parameter.ipynb)
