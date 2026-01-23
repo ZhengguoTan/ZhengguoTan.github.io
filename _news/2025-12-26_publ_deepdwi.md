@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Z. Tan**'s work on <a href=''>High-resolution diffusion-weighted imaging with self-gated self-supervised unrolled reconstruction</a> has been accepted by <a href='https://onlinelibrary.wiley.com/journal/15222594'>Magnetic Resonance in Medicine</a>, one of the top journals in the field of MRI. Congrats!
+**Z. Tan**'s work on <a href='https://doi.org/10.1002/mrm.70250'>High-resolution diffusion-weighted imaging with self-gated self-supervised unrolled reconstruction</a> has been accepted by <a href='https://onlinelibrary.wiley.com/journal/15222594'>Magnetic Resonance in Medicine</a>, one of the top journals in the field of MRI. Congrats!
