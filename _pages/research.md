@@ -92,4 +92,4 @@ Example: 7T Brain Diffusion MRI
 
 Example: 0.7 mm isotropic resolution DWI with the proposed self-gated ADMM unrolling enables the visualization of the tiny structure claustrum
 
-    {% include figure.liquid loading="eager" path="assets/research/deepdwi_claustrum.png" title="claustrum" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/research/deepdwi_claustrum.jpg" title="claustrum" class="img-fluid rounded z-depth-1" %}
