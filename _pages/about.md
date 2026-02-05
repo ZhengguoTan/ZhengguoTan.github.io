@@ -35,18 +35,18 @@ for magnetic resonance imaging (MRI).
 Meanwhile, I was a lecturer on the core master study module
 "Computational Imaging Project", mentoring about 8 master students per semester.
 Prior to Erlangen, I was a postdoctoral project leader
-sponsored by the German Research Foundation (<a href='https://www.dfg.de/en'>DFG</a>)
+sponsored by the German Research Foundation (<a href='https://gepris.dfg.de/gepris/projekt/427934942'>DFG</a>)
 at the University Medical Center Goettingen (<a href='https://www.umg.eu/'>UMG</a>) and
 adjunct at Max Planck Institute for Multidisciplinary Sciences
 (<a href='https://www.mpinat.mpg.de/en'>MPINAT</a>).
 I worked with <a href='https://www.tugraz.at/institute/ibi/home'>Prof. Dr. Martin Uecker</a> and
-<a href='https://de.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a>
+<a href='https://en.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a>
 developing advanced pulse sequences and iterative reconstruction methods for fast MRI.
-I obtained my PhD degree from MPINAT with summa cum laude, under the guidance of Prof. Frahm,
+I earned my PhD degree from MPINAT with summa cum laude, under the guidance of Prof. Frahm,
 focusing on the development of asymmetric-echo radial and multi-echo radial sampling sequences,
 and model-based reconstructions for real-time phase-contrast flow MRI and dynamic multi-echo MRI.
 
-I'm interested in MRI physics and optimization methods.
+I'm interested in MRI physics and numerical optimization methods.
 I've acquired vast hands-on experience in developing efficient data sampling schemes
 for MRI, exploring advanced deep neural networks for data-driven image reconstructions,
 and publishing research outcomes in medical imaging journals.
