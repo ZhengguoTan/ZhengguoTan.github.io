@@ -55,6 +55,12 @@ nav_order: 2
 <h2>Peer-Reviewed Conferences Publication</h2>
 
 <ol reversed>
+  <li><b>Tan Z</b>, DeLancey J, Jiang Y, Gulani V. <a href="">Female pelvic floor diffusion tensor imaging enabled by multi-shot EPI and ADMM unrolled reconstruction</a>. ISMRM 2026;35:xxxx. (Oral)</li>
+  <li><b>Tan Z</b>, Richardson J, Chenevert TL, Hussain H, Jaroszewicz M, Jiang Y, Seiberlich N, Gulani V. <a href="">0.55T prostate diffusion-weighted imaging using multi-shot EPI and self-supervised learning reconstruction</a>. ISMRM 2026;35:xxxx. (Digital Poster)</li>
+  <li>Hussain H, Jiang Y, Chahine R, Jaroszewicz M, Richardson J, Moorhouse J, Esch S, <b>Tan Z</b>, Gulani V. Utilization of 0.55T for prostate imaging in patients with hip implants. ISMRM 2026;35:xxxx. (Flash Presentation)</li>
+  <li>Wang N, Jaroszewicz M, Jiang Y, <b>Tan Z</b>, Hamilton J, Gulani V, Hussain H, Davenport M, Seiberlich N, Cruz G. <a href="">Low rank motion correction for IVIM and diffusion spectrum quantification for indeterminate renal masses</a>. ISMRM 2026;35:xxxx. (Oral)</li>
+  <li><b>Tan Z</b>, Richardson J, Chenevert TL, Hussain H, Jaroszewicz M, Jiang Y, Seiberlich N, Gulani V. <a href="/assets/conferences/2026_ismrm_workshop_sedona_dwi_prostate_0.55T_poster.pdf">0.55T prostate diffusion-weighted imaging using multi-shot EPI and self-supervised learning reconstruction</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2026. (Poster)</li>
+  <li><b>Tan Z</b>, DeLancey J, Jiang Y, Gulani V. <a href="/assets/conferences/2026_ismrm_workshop_sedona_dti_muscle_poster.pdf">Female pelvic floor diffusion tensor imaging enabled by multi-shot EPI and ADMM unrolled reconstruction</a>. ISMRM Workshop on Data Sampling & Image Reconstruction 2026. (Poster)</li>
   <li>Brenes A, <b>Tan Z</b>, Bae J, Goesche E, Knoll F, Kim SG. <a href="/assets/conferences/2025_ismrm_0520.pdf">Direct reconstruction of tracer kinetic parameter maps in abbreviated breast MRI</a>. ISMRM 2025;34:0520. (Oral)</li>
   <li><b>Tan Z</b>, Liebig P, Hofmann A, Jaroszewicz M, Jiang Y, Gulani V, Laun FB, Knoll F. <a href="/assets/conferences/2025_ismrm_0743.pdf">Self-gated self-supervised ADMM unrolling enables mesoscale high-resolution motion-robust diffusion-weighted imaging</a>. ISMRM 2025;34:0743. (Oral)</li>
   <li>Goesche E, <b>Tan Z</b>, Flasskamp K, Kim SG, Knoll F. <a href="/assets/conferences/2025_ismrm_3495.pdf">Comparative evaluation of deep learning and compressed sensing methods for dynamic contrast-enhanced MRI reconstruction</a>. ISMRM 2025;34:3495. (Digital poster)</li>
@@ -121,4 +127,4 @@ nav_order: 2
   <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
 </ol>
 
-<a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a>
+<!-- <a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a> -->
