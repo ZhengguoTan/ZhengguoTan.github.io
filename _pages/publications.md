@@ -15,7 +15,7 @@ nav_order: 2
 
   <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schaten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em>.</li>
 
-  <li><b>Tan Z</b>, Liebig P, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70250">High-resolution diffusion-weighted imaging with self-gated self-supervised ADMM unrolling</a>. <em>Magnetic Resonance in Medicine</em> 2026.</li>
+  <li><b>Tan Z</b>, Liebig P, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70250">High-resolution diffusion-weighted imaging with self-gated self-supervised ADMM unrolling</a>. <em>Magnetic Resonance in Medicine</em> 2026;95:2852-2862.</li>
 
   <li>Wang X, Fan H, <b>Tan Z</b>, Vasylechko S, Yang E, Didier R, Afacan O, Uecker M, Warfield SK, Gholipour A. <a href="https://doi.org/10.1002/mrm.30604">Rapid, High-resolution and Distortion-free R2* Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2025;94:1913-1929.</li>
 
