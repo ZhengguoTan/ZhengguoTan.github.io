@@ -100,11 +100,11 @@ nav_order: 2
 
   <li><b>Tan Z</b>, Kollmeier JM, Joseph AA, Kalentev O, Voit D, Merboldt KD, Hohage T, Frahm J. <a href="/assets/conferences/2018_ismrm_4137.pdf">Model-based reconstruction with automatic scaling for real-time phase-contrast flow MRI with complementary sets of radial spokes</a>. ISMRM 2018;27:4137. (e-Poster)</li>
 
-  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. Magnetization transfer in brain: Comparison to relaxation and proton density. ESMRMB 2017;34:344. (Power pitch)</li>
+  <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. <a href="/assets/conferences/2017_esmrmb_mp.pdf">Magnetization transfer in brain: Comparison to relaxation and proton density</a>. ESMRMB 2017;34:344. (Power pitch)</li>
 
-  <li>Kollmeier JM, Joseph AA, Voit D, <b>Tan Z</b>, Merboldt KD, Frahm J. 2D in-plane flow MRI in real time. ESMRMB 2017;34:305. (Oral)</li>
+  <li>Kollmeier JM, Joseph AA, Voit D, <b>Tan Z</b>, Merboldt KD, Frahm J. <a href="/assets/conferences/2017_esmrmb_flow.pdf">2D in-plane flow MRI in real time</a>. ESMRMB 2017;34:305. (Oral)</li>
 
-  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH. ESMRMB 2017;34:180. (Oral)</li>
+  <li>Wang X, Roeloffs V, Klosowski J, <b>Tan Z</b>, Voit D, Uecker M, Frahm J. <a href="/assets/conferences/2017_esmrmb_t1.pdf">Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH</a>. ESMRMB 2017;34:180. (Oral)</li>
 
   <li><b>Tan Z</b>, et al. <a href="/assets/conferences/2016_ismrm_0096.pdf">Model-based reconstruction for real-time phase-contrast flow MRI - Improved spatiotemporal accuracy</a>. ISMRM 2016;24:0096. (Power pitch) <b>summa cum laude</b></li>
 
