@@ -74,7 +74,7 @@ nav_order: 2
 
   <li>Hofmann A, <b>Tan Z</b>, Liebig P, Laun FB, Knoll F. <a href="/assets/conferences/2024_ismrm_2422.pdf">Whole-Brain Mesoscale 0.7 millimeter-Isotropic-Resolution Diffusion MRI at Ultra-High Fields: The JETS-NAViEPI Approach</a>. ISMRM 2024;33:2422. (e-Poster)</li>
 
-  <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. On the use of autoencoder to denoise diffusion MRI. ESMRMB 2023. (Oral)</li>
+  <li>Soundarresan S, <b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2023_esmrmb_ae.pdf">On the use of autoencoder to denoise diffusion MRI</a>. ESMRMB 2023. (Oral)</li>
 
   <li><b>Tan Z</b>, Liebig P, Heidemann R, Laun FB, Knoll F. <a href="/assets/conferences/2023_ismrm_3961.pdf">In vivo diffusion MRI at 7 T: High spatio-angular-temporal resolution pursuit</a>. ISMRM 2023;32:3961. (Poster)</li>
 
