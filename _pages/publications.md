@@ -11,9 +11,9 @@ nav_order: 2
 
 <ol reversed>
 
-  <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Under Review</em>. (# Equal Contribution)</li>
+  <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70496">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Magnetic Resonance in Medicine</em> 2026. (# Equal Contribution)</li>
 
-  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schaten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>Under Review</em>.</li>
+  <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schaten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>arXiv</em>.</li>
 
   <li><b>Tan Z</b>, Liebig P, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70250">High-resolution diffusion-weighted imaging with self-gated self-supervised ADMM unrolling</a>. <em>Magnetic Resonance in Medicine</em> 2026;95:2852-2862.</li>
 
