@@ -56,6 +56,8 @@ nav_order: 2
 
 <ol reversed>
 
+  <li>Glaser J, Rohe M, <b>Tan Z</b>, Wilferth T, Nagel AM, Laun FB, Knoll F. <a href="">A locally low-rank regularized reconstruction for a 3D radial sequence with quasi-continuous echo times at 7 T</a>. DACH ISMRM 2026. (poster)</li>
+
   <li><b>Tan Z</b>, DeLancey J, Jiang Y, Gulani V. <a href="/assets/conferences/2026_ismrm_304-02-010.pdf">Female pelvic floor diffusion tensor imaging enabled by multi-shot EPI and ADMM unrolled reconstruction</a>. ISMRM 2026;35:304-02-010. (Oral)</li>
 
   <li><b>Tan Z</b>, Richardson J, Chenevert TL, Hussain H, Jaroszewicz M, Jiang Y, Seiberlich N, Gulani V. <a href="/assets/conferences/2026_ismrm_365-06-013.pdf">0.55T prostate diffusion-weighted imaging using multi-shot EPI and self-supervised learning reconstruction</a>. ISMRM 2026;35:365-06-013. (Digital Poster)</li>
