@@ -27,7 +27,7 @@ Department of Radiology, University of Michigan (<a href='https://umich.edu/'>UM
 in Ann Arbor, USA.
 
 Before joining MIITT, I was a postdoctoral scientist
-supervised by <a href='https://www.cil.tf.fau.de/person/knoll/'>Prof. Dr. Florian Knoll</a>
+supervised by <a href='https://www.cil.tf.fau.de/faudir/florian-knoll/'>Prof. Dr. Florian Knoll</a>
 at the Friedrich-Alexander University of Erlangen-Nuremberg (<a href='https://www.fau.de/'>FAU</a>).
 I enjoyed the time with Prof. Knoll
 building efficient deep learning reconstruction methods
