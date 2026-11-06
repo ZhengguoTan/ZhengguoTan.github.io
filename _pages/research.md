@@ -82,7 +82,7 @@ Generalized joint k-q-slice reconstruction
 
 Example: 7T Brain Diffusion MRI
 
-  {% include figure.liquid loading="eager" path="assets/research/recon_diff_brain.png" title="NAViEPI brain" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/research/recon_diff_brain.png" title="NAViEPI brain" class="img-fluid rounded z-depth-1" %}
 
 - Data: hosted on [Zenodo](https://zenodo.org/records/10474402)
 
