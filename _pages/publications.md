@@ -35,7 +35,7 @@ nav_order: 2
 
   <li><b>Tan Z</b>, Voit D, Kollmeier JM, Uecker M, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.27795">Dynamic water/fat separation and B0 inhomogeneity mapping - Joint estimation using triple-echo multi-spoke radial FLASH</a>. <em>Magnetic Resonance in Medicine</em> 2019;82:1000-1011.</li>
 
-  <li>Watanabe T, <b>Tan Z</b>, Wang X, Martinez-Hernandez A, Frahm J. <a href="https://doi.org/10.1007/s00429-019-01858-0">Magnetic resonance imaging of noradrenergic neurons</a>. <em>Brain Structure and Function</em> 2019;224:1609-1625.</li>
+  <li>Watanabe T, <b>Tan Z</b>, Wang X, Martinez-Hernandez A, Frahm J. <a href="https://link.springer.com/article/10.1007/s00429-019-01858-0">Magnetic resonance imaging of noradrenergic neurons</a>. <em>Brain Structure and Function</em> 2019;224:1609-1625.</li>
 
   <li>Watanabe T, Wang X, <b>Tan Z</b>, Frahm J. <a href="https://www.nature.com/articles/s41598-019-41587-2">Magnetic resonance imaging of brain cell water</a>. <em>Scientific Reports</em> 2019;9:1-14.</li>
 
