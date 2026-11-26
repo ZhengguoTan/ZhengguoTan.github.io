@@ -28,3 +28,22 @@ $max-content-width: {{ site.max_width }};
   line-height: 1.6;
   margin-bottom: 1.3em;
 }
+
+/* ISMRM award highlights */
+.award-summa {
+  color: #9A6700;
+  background-color: #FFF3CD;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.award-magna {
+  color: #005A9C;
+  background-color: #DCEEFF;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
