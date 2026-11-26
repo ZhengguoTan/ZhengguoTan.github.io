@@ -9,7 +9,7 @@ nav_order: 2
 
 <h2>Peer-Reviewed Journal Publication</h2>
 
-<ol reversed>
+<ol reversed class="publication-list">
 
   <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70496">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Magnetic Resonance in Medicine</em> 2026. (# Equal Contribution)</li>
 
@@ -54,7 +54,7 @@ nav_order: 2
 
 <h2>Peer-Reviewed Conferences Publication</h2>
 
-<ol reversed>
+<ol reversed class="publication-list">
 
   <li>Glaser J, Rohe M, <b>Tan Z</b>, Wilferth T, Nagel AM, Laun FB, Knoll F. <a href="/assets/conferences/2026_dach_ismrm_radial.pdf">A locally low-rank regularized reconstruction for a 3D radial sequence with quasi-continuous echo times at 7 T</a>. DACH ISMRM 2026. (<a href="/assets/conferences/2026_dach_ismrm_radial_poster.pdf">poster</a>)</li>
 
