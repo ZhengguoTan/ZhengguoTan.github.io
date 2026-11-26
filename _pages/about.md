@@ -39,7 +39,7 @@ sponsored by the German Research Foundation (<a href='https://gepris.dfg.de/gepr
 at the University Medical Center Goettingen (<a href='https://www.umg.eu/'>UMG</a>) and
 adjunct at Max Planck Institute for Multidisciplinary Sciences
 (<a href='https://www.mpinat.mpg.de/en'>MPINAT</a>).
-I worked with <a href='https://www.tugraz.at/institute/ibi/home'>Prof. Dr. Martin Uecker</a> and
+I worked with <a href='https://scholar.google.com/citations?user=kwW-9fQAAAAJ&hl=en'>Prof. Dr. Martin Uecker</a> and
 <a href='https://en.wikipedia.org/wiki/Jens_Frahm'>Prof. Dr. Jens Frahm</a>
 developing advanced pulse sequences and iterative reconstruction methods for fast MRI.
 I earned my PhD degree from MPINAT with summa cum laude, under the guidance of Prof. Frahm,
