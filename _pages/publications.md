@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-<h2>Peer-Reviewed Journal Publication</h2>
+## Peer-Reviewed Journal Publication
 
 <ol reversed class="publication-list">
 
@@ -54,7 +54,7 @@ toc:
   <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. <em>Magnetic Resonance in Medicine</em> 2016;75:1901-1908. (# Equal Contribution)</li>
 </ol>
 
-<h2>Peer-Reviewed Conferences Publication</h2>
+## Peer-Reviewed Conferences Publication
 
 <ol reversed class="publication-list">
 
@@ -131,13 +131,13 @@ toc:
   <li><b>Tan Z</b>, Chen NK. <a href="/assets/conferences/2012_ismrm_2422.pdf">Application of k-space energy spectrum analysis to artifact correction in PROPELLER EPI</a>. ISMRM 2012;20:2422. (Poster)</li>
 </ol>
 
-<h2>PhD Thesis</h2>
+## PhD Thesis
 
 <ol reversed  class="publication-list">
   <li>Tan Z. <a href="https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0028-8763-3">Advances in real-time phase-contrast flow MRI and multi-echo radial FLASH</a>. Accomplished at <a href="https://www.mpg.de/en/imprs">International Max Planck Research Schools (IMPRS)</a> and <a href="https://www.uni-goettingen.de/en/1.html">Göttingen University</a>, 2016. <span class="award-summa">Summa Cum Laude</span></li>
 </ol>
 
-<h2>arXiv Publication</h2>
+## arXiv Publication
 
 <ol reversed  class="publication-list">
   <li><b>Tan Z</b>, Dai E, Uecker M. <a href="https://github.com/ZhengguoTan/publ_meco_brain_t2star.git">Stack-of-radial echo planar imaging with locally low rank regularized subspace reconstruction for fast high-resolution brain MRI</a>. github 2021.</li>
