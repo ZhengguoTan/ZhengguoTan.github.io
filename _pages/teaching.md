@@ -5,9 +5,11 @@ title: teaching
 description:
 nav: true
 nav_order: 6
+toc:
+  sidebar: left
 ---
 
-## Mentored master theses
+## Master Theses
 
 <table>
     <tr>
@@ -32,35 +34,61 @@ nav_order: 6
     </tr>
 </table>
 
-## Mentored master research projects
+## Master Research Projects @ FAU
 
-- Winter Semester 2022/2023 @ FAU
+<table>
+  <tr>
+    <th style="width:300px;">Winter 2022-2023</th>
+    <th style="width:300px;">Summer 2023</th>
+    <th style="width:300px;">Winter 2023-2024</th>
+  </tr>
+  <tr>
+    <td>Srikar Kallem</td>
+    <td>Rodrigo Andujar Lugo</td>
+    <td>Jinying Chen, <a href='/assets/teaching/cip/2023ws_chen_jinying.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td>Andres Lizarraga Papachoris</td>
+    <td>Arianna Brenes</td>
+    <td>Abdallah Eid, <a href='/assets/teaching/cip/2023ws_eid_abdallah.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td>Yu Zou</td>
+    <td>Shweta Devani</td>
+    <td>Xinyi Huang, <a href='/assets/teaching/cip/2023ws_huang_xinyi.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Maher Devani</td>
+    <td>Jiayi Jia, <a href='/assets/teaching/cip/2023ws_jia_jiayi.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Julius Glaser</td>
+    <td>Yen-Ju Lu, <a href='/assets/teaching/cip/2023ws_lu_yenju.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Xiaolei Li</td>
+    <td>Yutong Luo, <a href='/assets/teaching/cip/2023ws_luo_yutong.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Victoria Alejandra Rincon Guevara</td>
+    <td>Dhruv Sharma, <a href='/assets/teaching/cip/2023ws_sharma_dhruv.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ximeng Zhang</td>
+    <td>Xie Xu, <a href='/assets/teaching/cip/2023ws_xu_xie.pdf'>report</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Kai Zhao</td>
+    <td></td>
+  </tr>
+</table>
 
-  - Srikar Kallem
-  - Andres Lizarraga Papachoris
-  - Yu Zou
-
-- Summer Semester 2023 @ FAU
-
-  - Rodrigo Andujar Lugo
-  - Arianna Brenes
-  - Shweta Devani
-  - Maher Devani
-  - Julius Glaser
-  - Xiaolei Li
-  - Victoria Alejandra Rincon Guevara
-  - Ximeng Zhang
-  - Kai Zhao
-
-- Winter Semester 2023/2024 @ FAU
-  - Jinying Chen, [report](/assets/teaching/cip/2023ws_chen_jinying.pdf)
-  - Abdallah Eid, [report](/assets/teaching/cip/2023ws_eid_abdallah.pdf)
-  - Xinyi Huang, [report](/assets/teaching/cip/2023ws_huang_xinyi.pdf)
-  - Jiayi Jia, [report](/assets/teaching/cip/2023ws_jia_jiayi.pdf)
-  - Yen-Ju Lu, [report](/assets/teaching/cip/2023ws_lu_yenju.pdf)
-  - Yutong Luo, [report](/assets/teaching/cip/2023ws_luo_yutong.pdf)
-  - Dhruv Sharma, [report](/assets/teaching/cip/2023ws_sharma_dhruv.pdf)
-  - Xie Xu, [report](/assets/teaching/cip/2023ws_xie_xu.pdf)
 
 ## Courses
 
