@@ -74,7 +74,7 @@ toc:
   </tr>
   <tr>
     <td></td>
-    <td>Victoria Alejandra Rincon Guevara</td>
+    <td>Victoria A.R. Guevara</td>
     <td>Dhruv Sharma, <a href='/assets/teaching/cip/2023ws_sharma_dhruv.pdf'>report</a></td>
   </tr>
   <tr>
