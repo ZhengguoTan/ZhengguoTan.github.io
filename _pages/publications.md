@@ -9,11 +9,11 @@ toc:
   sidebar: left
 ---
 
-## Peer-Reviewed Journal Publication
+## Journals
 
 <ol reversed class="publication-list">
 
-  <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70496">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Magnetic Resonance in Medicine</em> 2026. (# Equal Contribution)</li>
+  <li>Glaser J#, <b>Tan Z</b>#, Hofmann A, Laun FB, Knoll F. <a href="https://doi.org/10.1002/mrm.70496">A deep nonlinear subspace modelling and reconstruction for diffusion-weighted imaging using variational auto-encoder</a>. <em>Magnetic Resonance in Medicine</em> 2026;96:2359-2369. (# Equal Contribution)</li>
 
   <li>Wang X, Scholand N, <b>Tan Z</b>, Mackner D, Telezki V, Blumenthal M, Schaten P, Uecker M. <a href="https://arxiv.org/abs/2402.05366">Model-Based Reconstruction for Joint Estimation of T1, R2* and B0 Field Maps Using Single-Shot Inversion-Recovery Multi-Echo Radial FLASH</a>. <em>arXiv</em>.</li>
 
@@ -32,6 +32,8 @@ toc:
   <li>Wang X, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, <b>Tan Z</b>, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. <a href="http://dx.doi.org/10.1002/mrm.29521">Free-breathing myocardial T1 mapping using inversion-recovery radial FLASH and motion-resolved model-Based reconstruction</a>. <em>Magnetic Resonance in Medicine</em> 2023;89:1368-1384.</li>
 
   <li>Wang X, <b>Tan Z</b>, Scholand N, Roeloffs V, Uecker M. <a href="https://doi.org/10.1098/rsta.2020.0196">Physics-based reconstruction methods for magnetic resonance imaging</a>. <em>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</em> 2021;379:20200196.</li>
+
+  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
 
   <li>Kollmeier JM, <b>Tan Z</b>, Joseph AA, Kalentev O, Voit D, Merboldt KD, Frahm J. <a href="https://doi.org/10.1002/nbm.4184">Real-time multi-directional flow MRI using model-based reconstructions of undersampled radial FLASH -- A feasibility study</a>. <em>NMR in Biomedicine</em> 2019;32:e4184.</li>
 
@@ -54,7 +56,7 @@ toc:
   <li>Untenberger M#, <b>Tan Z</b>#, Voit D, Joseph AA, Roeloffs V, Merboldt KD, Schätz S, Frahm J. <a href="http://dx.doi.org/10.1002/mrm.25696">Advances in real-time phase-contrast flow MRI using asymmetric radial gradient echoes</a>. <em>Magnetic Resonance in Medicine</em> 2016;75:1901-1908. (# Equal Contribution)</li>
 </ol>
 
-## Peer-Reviewed Conferences Publication
+## Conferences
 
 <ol reversed class="publication-list">
 
@@ -137,12 +139,11 @@ toc:
   <li>Tan Z. <a href="https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0028-8763-3">Advances in real-time phase-contrast flow MRI and multi-echo radial FLASH</a>. Accomplished at <a href="https://www.mpg.de/en/imprs">International Max Planck Research Schools (IMPRS)</a> and <a href="https://www.uni-goettingen.de/en/1.html">Göttingen University</a>, 2016. <span class="award-summa">Summa Cum Laude</span></li>
 </ol>
 
-## arXiv Publication
+## Draft
 
 <ol reversed  class="publication-list">
   <li><b>Tan Z</b>, Dai E, Uecker M. <a href="https://github.com/ZhengguoTan/publ_meco_brain_t2star.git">Stack-of-radial echo planar imaging with locally low rank regularized subspace reconstruction for fast high-resolution brain MRI</a>. github 2021.</li>
 
-  <li><b>Tan Z</b>, Rosenzweig S, Wang X, Scholand N, Holme CHM, Blumenthal M, Voit D, Frahm J, Uecker M. <a href="https://arxiv.org/abs/2101.02788v2">Free-breathing water, fat, R2* and B0 field mapping of the liver using multi-echo radial FLASH and regularized model-based reconstruction (MERLOT)</a>. arXiv 2021.</li>
 </ol>
 
 <!-- <a href="https://clustrmaps.com/site/1byoo"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Y5vOA9MbFeonFP1gWZwPij-UE7Yu_cMPmi6iVMO89PE&cl=ffffff"/></center></a> -->
