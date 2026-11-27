@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-# 1. Real-Time MRI / Fast MRI (Cardiovascular)
+## 1. Real-Time MRI / Fast MRI (Cardiovascular)
 
 ### Asymmetric-Echo Radial Sampling (i.e. Partial Fourier)
 
@@ -27,7 +27,7 @@ toc:
 
 - With proper regularization on the phase-difference map, the model-based reconstruction largely removes random phase noise in the background, which appears from the conventional phase difference calculation between two images.
 
-# 2. Multi-Echo Radial Sampling
+## 2. Multi-Echo Radial Sampling
 
     {% include figure.liquid loading="eager" path="assets/research/seq_multi-echo_stack-of-radial.png" title="multi-echo radial sequence" class="img-fluid rounded z-depth-1" %}
 
@@ -43,7 +43,7 @@ toc:
   </div>
 </div>
 
-## Application #1: Liver Fat, R2\* and B0 Field Mapping
+### Application #1: Liver Fat, R2\* and B0 Field Mapping
 
     {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_liver.png" title="multi-echo liver" class="img-fluid rounded z-depth-1" %}
 
@@ -53,13 +53,13 @@ toc:
 
 - Respiratory motion is resolved with the [SSA-FARY](https://ieeexplore.ieee.org/document/9057630) self-gating technique.
 
-## Application #2: T2\*-weighted imaging (Brain)
+### Application #2: T2\*-weighted imaging (Brain)
 
     {% include figure.liquid loading="eager" path="assets/research/recon_multi-echo_brain.gif" title="multi-echo brain" class="img-fluid rounded z-depth-1" %}
 
-# 3. Diffusion MRI
+## 3. Diffusion MRI
 
-## NAViEPI
+### NAViEPI
 
 [NAViEPI](https://github.com/ZhengguoTan/NAViEPI) with consistent ESP between imaging and navigator echoes: _where interleaved EPI meets readout-segmented EPI_
 
@@ -86,7 +86,7 @@ Example: 7T Brain Diffusion MRI
 
 - Data: hosted on [Zenodo](https://zenodo.org/records/10474402)
 
-## Self-Supervised ADMM Unrolling Reconstruction
+### Self-Supervised ADMM Unrolling Reconstruction
 
 [ADMM Unrolling](https://github.com/ZhengguoTan/DeepDWI) enables submillimeter DWI based on multi-band multi-shot interleaved EPI acquisition.
 
