@@ -89,7 +89,6 @@ toc:
   </tr>
 </table>
 
-
 ## Courses
 
 - 2025, Guest Lecture "Compressed Sensing and Low-Rank Models" for the Course "Advanced Topics in MRI", BME599, University of Michigan
