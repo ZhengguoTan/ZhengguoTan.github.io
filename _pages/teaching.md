@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-## Master Theses
+## 1. Master Theses
 
 <table>
     <tr>
@@ -34,7 +34,7 @@ toc:
     </tr>
 </table>
 
-## Master Research Projects @ FAU
+## 2. Master Research Projects @ FAU
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ toc:
   </tr>
 </table>
 
-## Courses
+## 3. Courses
 
 - 2025, Guest Lecture "Compressed Sensing and Low-Rank Models" for the Course "Advanced Topics in MRI", BME599, University of Michigan
 
@@ -105,7 +105,9 @@ toc:
 
 - 2012 - 2015, Basic Principle of MRI and Real-Time MRI @ International Max Planck Research School (IMPRS) for Physics of Biological and Complex Systems
 
-## [ISMRM](https://www.ismrm.org/)
+## 4. Conferences
+
+### [ISMRM](https://www.ismrm.org/)
 
 - Interactive open-source code demo at [MR-Pub](https://ismrm.github.io/mrpub/) Competition in ISMRM 2023
 
