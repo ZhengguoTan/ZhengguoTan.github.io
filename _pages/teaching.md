@@ -106,7 +106,7 @@ toc:
 
 - 2012 - 2015, Basic Principle of MRI and Real-Time MRI @ International Max Planck Research School (IMPRS) for Physics of Biological and Complex Systems
 
-## International Society for Magnetic Resonance in Medicine ([ISMRM](https://www.ismrm.org/))
+## [ISMRM](https://www.ismrm.org/)
 
 - Interactive open-source code demo at [MR-Pub](https://ismrm.github.io/mrpub/) Competition in ISMRM 2023
 
